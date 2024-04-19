@@ -88,7 +88,7 @@
 
   
 
-<hr/><h3 align="left">🛠️ CAD Modelling & Electromechanical Engineering<h3>
+<hr/><h3 align="left">🛠️ CAD Modelling & Embedded Programming<h3>
 <p align="left">
     <img src="https://img.shields.io/badge/SolidWorks-BC2A24?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
     <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white">
