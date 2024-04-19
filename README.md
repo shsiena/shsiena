@@ -30,7 +30,6 @@
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
     <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white">
     <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white">
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
@@ -49,9 +48,11 @@
     <a href="#"><img alt="MatPlotLib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
     <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
     <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
     <a href="#"><img alt="ArduPilot" src="https://img.shields.io/badge/ArduPilot-FF9900.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/OpenVR-000000?style=for-the-badge&logo=valve&logoColor=white">
 </p>
 
 <hr/><h3 align="left">💻 Software and Tools<h3>
@@ -79,7 +80,6 @@
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenVR-000000?style=for-the-badge&logo=valve&logoColor=white">
     <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
@@ -90,8 +90,6 @@
 
 <hr/><h3 align="left">🛠️ CAD Modelling & Electromechanical Engineering<h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/Stereolithography-2C3A83?style=for-the-badge&logo=elegoo&logoColor=white">
-    <img src="https://img.shields.io/badge/Filament_Deposition-FF3C00?style=for-the-badge&logo=makerbot&logoColor=white">
     <img src="https://img.shields.io/badge/SolidWorks-BC2A24?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
     <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white">
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
