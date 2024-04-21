@@ -13,7 +13,7 @@
 ```
 💻 I'm an aspiring Robotics Engineer and Machine Learning Developer
 📚 I'm studying Mechatronics Engineering at the University of Waterloo
-📝 I'm passionate about Artificial Intelligence, Automation, and Cyber Security
+📝 I'm passionate about Artificial Intelligence, Automation, Cyber Security, and Aviation
 🔭 Working with Drones, Robots and AI
 🌱 Learning about CNNs
 🌟 Main languages: Python, C++
