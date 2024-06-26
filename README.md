@@ -5,17 +5,17 @@
 </h1>
 <p align="center"> 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FF759&random=false&width=435&lines=Machine+Learning+Developer;Mechatronics+Engineering+Student;Avionics+%26+Drone+Robotics+Specialist;AI+%7C+ML+%7C+CV+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FF759&random=false&width=435&lines=Machine+Learning+Developer;Mechatronics+Engineering+Student;Ethical+Hardware+%26+Software+Hacker;Avionics+%26+Drone+Robotics+Specialist;AI+%7C+ML+%7C+CV+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <hr>
 
 ```
-💻 I'm an aspiring Robotics Engineer and Machine Learning Developer
+💻 I'm an aspiring Robotics Engineer, White Hat Hacker and Machine Learning Developer
 📚 I'm studying Mechatronics Engineering at the University of Waterloo
-📝 I'm passionate about Artificial Intelligence, Automation, Cyber Security, and Aviation
+📝 I'm passionate about Artificial Intelligence, Automation, Cybersecurity, and Aviation
 🔭 Working with Drones, Robots, VR and AI
-🌱 Learning about CNNs
+🌱 Learning about reverse shells & Meterpreter
 🌟 Main languages: Python, C++
 ```
 <hr/>
