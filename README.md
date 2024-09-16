@@ -18,8 +18,10 @@
 🌱 currently learning about neovim
 ⌨️ I rather like leetcode
 ```
+
 <hr/>
 
+<a href="#"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
 
 
 <h3 align="left">👨‍💻 Programming Languages & Formats<h3>
@@ -35,7 +37,6 @@
 <hr/><h3 align="left">🧰 Frameworks and Libraries<h3>
 
 <p align="left">
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
