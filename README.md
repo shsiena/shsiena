@@ -11,12 +11,12 @@
 <hr>
 
 ```
-💻 I'm an aspiring Robotics Engineer, White Hat Hacker and Machine Learning Developer
-📚 I'm studying Mechatronics Engineering at the University of Waterloo
-📝 I'm passionate about Artificial Intelligence, Automation, Cybersecurity, and Aviation
-🔭 Working with Drones, Robots, VR and AI
-🌱 Learning about reverse shells & Meterpreter
-🌟 Main languages: Python, C++
+💻 I'm a cybersecurity enthusiast, ethical hard/software hacker and machine learning developer
+📚 I'm studying mechatronics engineering at the University of Waterloo
+📝 I'm passionate about control systems and automation, cybersecurity, and computer vision
+🔭 working with ML, ESP-32s and a burning desire to create thingamabobs and whatchamacallits
+🌱 currently learning about neovim
+⌨️ I rather like leetcode
 ```
 <hr/>
 
