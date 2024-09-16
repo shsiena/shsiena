@@ -14,9 +14,9 @@
 💻 I'm a cybersecurity enthusiast, ethical hard/software hacker and machine learning developer
 📚 I'm studying mechatronics engineering at the University of Waterloo
 📝 I'm passionate about control systems and automation, cybersecurity, and computer vision
-🔭 working with ML, ESP-32s and a burning desire to create thingamabobs and whatchamacallits
+🔭 armed with Raspberry Pis, ESP-32s and a burning desire to create thingamabobs and whatchamacallits
 🌱 currently learning about neovim
-⌨️ I rather like leetcode
+⌨️ rather good at leetcode
 ```
 
 <hr/>
