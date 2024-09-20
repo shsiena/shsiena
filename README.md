@@ -27,6 +27,11 @@
 <h3 align="left">👨‍💻 Programming Languages & Formats<h3>
   
 <p align="left">
+    <a href="#"><img alt="SolidWorks" src="https://img.shields.io/badge/Solidworks-e13b3b?style=for-the-badge&logo=dassaultsystemes&logoColor=white"></a>
+    <a href="#"><img alt="Bluetooth" src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+    <a href="#"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FD8E01?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
