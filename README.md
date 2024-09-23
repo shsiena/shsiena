@@ -10,10 +10,7 @@
 <table border="0" width="100%">
   <tr>
     <td align="left" valign="center" width="50%">
-    
-<p align="left">
-</p>
-<pre><code style="display: block; text-align: left;">
+<pre><code valign="" style="display: block; text-align: left">
 💻 I like cybersecurity, IoT, and machine learning
 📚 I'm studying mechatronics engineering at the University of Waterloo
 📝 I'm passionate about control systems and automation
