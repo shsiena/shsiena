@@ -16,7 +16,7 @@
 📝 I'm passionate about control systems and automation, cybersecurity, and computer vision
 🔭 armed with Raspberry Pis, ESP-32s and a burning desire to create thingamabobs and whatchamacallits
 🌺 arch/neovim user
-⌨️ rather good at leetcode
+🌱 currently learning go
 ```
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Arduino_88?theme=unicorn)](https://leetcode.com/Arduino_88)
 <hr/>
