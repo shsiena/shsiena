@@ -58,7 +58,7 @@
       </p>
 <hr>
 <h3 align="center">
-      🛡️ Cybersecurity
+      🛡️ Linux and Cybersecurity
 <h3> 
       <p align="center">
           <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"></a>
