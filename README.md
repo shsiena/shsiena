@@ -50,10 +50,11 @@
       💻 DevOps
 </h3> 
       <p align="center">
-          <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"></a>
-          <a href="#"><img alt="Node" src="https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+          <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+          <a href="#"><img alt="React" src="https://img.shields.io/badge/ReactJS-2496ED?style=for-the-badge&logo=react&logoColor=white"></a>
           <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
           <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+          <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"></a>
           <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
           <a href="#"><img alt="QT" src="https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
       </p>
