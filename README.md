@@ -16,7 +16,7 @@
 📝 I'm passionate about control systems and automation
 🔭 autistic leetcode grinder, neovim enjoyer, and user of arch linux
 🌺 self-taught c++ at age 8
-🌱 currently learning golang
+🌱 currently learning typescript and node
 </code></pre>
     </td>
     <td align="center" valign="top" width="50%">
