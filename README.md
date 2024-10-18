@@ -14,7 +14,7 @@
 💻 I like cybersecurity, IoT, and machine learning
 📚 I'm studying mechatronics engineering at the University of Waterloo
 📝 I'm passionate about control systems and automation
-🔭 autistic leetcode grinder, neovim enjoyer, and user of arch linux
+🔭 I use vim on arch btw
 🌺 self-taught c++ at age 8
 🌱 currently learning typescript and node
 </code></pre>
