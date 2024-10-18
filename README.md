@@ -13,7 +13,7 @@
 <pre><code valign="" style="display: block; text-align: left">
 💻 I like cybersecurity, IoT, and machine learning
 📚 I'm studying mechatronics engineering at the University of Waterloo
-📝 I'm passionate about control systems and automation
+📝 I'm passionate about DSA and control systems
 🔭 I use vim on arch btw
 🌺 self-taught c++ at age 8
 🌱 currently learning typescript and node
