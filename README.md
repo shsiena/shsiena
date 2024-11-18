@@ -78,8 +78,6 @@
     <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
 </p>
 
-    <a href="#"><img alt="QT" src="https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
-
 <hr>
 <h3 align="center">✨ Machine Learning<h3>
 <p align="center">
