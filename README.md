@@ -10,12 +10,12 @@
 <table border="0" width="100%">
   <tr>
     <td align="left" valign="center" width="50%">
-<pre><code valign="" style="display: block; text-align: left">
-💻 I like cybersecurity, IoT systems, and machine learning
-📚 I'm studying mechatronics engineering at the University of Waterloo
-🌺 I use vim btw
-🌱 currently distro-hopping to fedora
-</code></pre>
+        <pre><code valign="" style="display: block; text-align: left">
+        💻 I like cybersecurity, IoT systems, and machine learning
+        📚 I'm studying mechatronics engineering at the University of Waterloo
+        🌺 I use vim btw
+        🌱 currently distro-hopping to fedora
+        </code></pre>
     </td>
     <td align="center" valign="top" width="50%">
       <h2>LeetCode Stats</h2>
@@ -36,44 +36,52 @@
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white"></a>
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-c6c200?style=for-the-badge&logo=javascript&logoColor=white"></a>
       <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
       <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="#"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"></a>
+      <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></a>
       <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
 </p>
 
 <hr>
 <h3 align="center">
-      💻 DevOps
+      💻 Web Development
 </h3> 
-      <p align="center">
-          <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-          <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&logoColor=white"></a>
-          <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-          <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-          <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"></a>
-          <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-          <a href="#"><img alt="QT" src="https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
+<p align="center">
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&logoColor=white"></a>
+    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
       </p>
+
+
 <hr>
 <h3 align="center">
-      🛡️ Linux and Cybersecurity
+       Linux
 <h3> 
-      <p align="center">
-          <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"></a>
-          <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
-          <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-          <a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
-          <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"></a>
-          <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
-          <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
-      </p>
+<p align="center">
+    <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"></a>
+    <a href="#"><img alt="NixOS" src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"></a>
+    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"></a>
+    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
+</p>
 
+<h3 align="center"> Cybersecurity </h3>
+<p>
+    <a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+    <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"></a>
+    <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+    <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
+</p>
+
+    <a href="#"><img alt="QT" src="https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
 
 <hr>
-<h3 align="center">✨ Machine Learning and Data Manipulation<h3>
+<h3 align="center">✨ Machine Learning<h3>
 <p align="center">
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
@@ -86,7 +94,7 @@
 </p>
 
 <hr>
-<h3 align="center">🛠️ Embedded Programming and CAD<h3>
+<h3 align="center">🛠️ Hardware<h3>
 <p align="center">
     <a href="#"><img alt="ESP 32" src="https://img.shields.io/badge/ESP%2032-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
