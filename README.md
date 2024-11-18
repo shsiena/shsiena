@@ -43,7 +43,6 @@
       <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
 </p>
 
-<hr>
 <h3 align="center">
       💻 Web Development
 </h3> 
@@ -59,7 +58,6 @@
       </p>
 
 
-<hr>
 <h3 align="center">
        Linux
 <h3> 
@@ -78,7 +76,6 @@
     <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
 </p>
 
-<hr>
 <h3 align="center">✨ Machine Learning<h3>
 <p align="center">
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
@@ -91,7 +88,6 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
 </p>
 
-<hr>
 <h3 align="center">🛠️ Hardware<h3>
 <p align="center">
     <a href="#"><img alt="ESP 32" src="https://img.shields.io/badge/ESP%2032-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
