@@ -3,7 +3,7 @@
       <p align="center">
         <!-- Typing SVG by DenverCoder1 -->
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=66E1F7&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Reinforcement+Learning+Developer;Cybersecurity+Researcher;Mechatronics+Engineering+Student;Control+Systems+%26+Automation+Specialist;IoT+Networking+Specialist" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=66E1F7&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Mechatronics+Engineering+Student;Fullstack+Developer;Backend+Developer;Game+Developer" alt="Typing SVG" />
         </a>
       </p>
 
@@ -11,11 +11,10 @@
   <tr>
     <td align="left" valign="center" width="50%">
         <pre><code valign="" style="display: block; text-align: left">
-        💻 I like cybersecurity, IoT systems, and machine learning
+        💻 I like cybersecurity, IoT systems, and computer vision
         📚 I'm studying mechatronics engineering at the University of Waterloo
-        🌺 I use vim btw
-        🌱 currently distro-hopping to fedora
-        </code></pre>
+        🌺 Environment: Fedora on WSL2 with Neovim
+        🌱 currently developing a multiplayer game from scratch
     </td>
     <td align="center" valign="top" width="50%">
       <h2>LeetCode Stats</h2>
@@ -31,18 +30,15 @@
      Languages
 </h3>
 <p align="center">
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
       <a href="#"><img alt="C" src="https://img.shields.io/badge/C-7e93aa?style=for-the-badge&logo=c&logoColor=white"></a>
+      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-c6c200?style=for-the-badge&logo=javascript&logoColor=white"></a>
       <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
       <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></a>
       <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=educative&logoColor=white"></a>
-      <a href="#"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 </p>
 
 <h3 align="center">
@@ -56,6 +52,8 @@
     <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
@@ -91,6 +89,7 @@
 <p align="center">
     <a href="#"><img alt="ESP 32" src="https://img.shields.io/badge/ESP%2032-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+      <a href="#"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"></a>
     <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
     <a href="#"><img alt="SolidWorks" src="https://img.shields.io/badge/Solidworks-e13b3b?style=for-the-badge&logo=dassaultsystemes&logoColor=white"></a>
     <a href="#"><img alt="AutoCad" src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white"></a>
