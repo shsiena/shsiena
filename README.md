@@ -35,7 +35,7 @@
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-c6c200?style=for-the-badge&logo=javascript&logoColor=white"></a>
       <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
-      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23EE4C2C?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></a>
       <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=educative&logoColor=white"></a>
 </p>
