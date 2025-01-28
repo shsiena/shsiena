@@ -43,7 +43,7 @@
 </p>
 
 <h3 align="center">
-      💻 Web Development
+      💻 Libraries and Development Tools
 </h3> 
 <p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
