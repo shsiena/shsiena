@@ -32,9 +32,10 @@
       <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-c6c200?style=for-the-badge&logo=javascript&logoColor=white"></a>
       <a href="#"><img alt="C" src="https://img.shields.io/badge/C-7e93aa?style=for-the-badge&logo=c&logoColor=white"></a>
       <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-c6c200?style=for-the-badge&logo=javascript&logoColor=white"></a>
+      <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
       <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ed2025?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></a>
       <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=educative&logoColor=white"></a>
