@@ -26,7 +26,7 @@
 </table>
 
 <h3 align="center" style="display: flex; align-items: center; justify-content: center;">
-     ⌨️ Programming Languages
+     Programming Languages ⌨️
 </h3>
 <p align="center">
       <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
@@ -44,7 +44,7 @@
 </p>
 
 <h3 align="center">
-      💻 Libraries and Development Tools
+      Libraries and Development Tools 💻
 </h3> 
 <p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -60,7 +60,7 @@
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 </p>
 
-<h3 align="center">✨ Machine Learning<h3>
+<h3 align="center">Machine Learning ✨<h3>
 <p align="center">
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
@@ -74,7 +74,7 @@
 
       
 <h3 align="center">
-       🔒 Linux and Cybersecurity
+      Linux and Cybersecurity 🔒
 <h3> 
 <p align="center">
     <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"></a>
@@ -86,7 +86,7 @@
     <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
 </p>
 
-<h3 align="center">🛠️ Hardware and Embedded Systems<h3>
+<h3 align="center">Hardware and Embedded Systems 🛠️<h3>
 <p align="center">
     <a href="#"><img alt="ESP 32" src="https://img.shields.io/badge/ESP%2032-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
