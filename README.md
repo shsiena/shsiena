@@ -26,7 +26,7 @@
 </table>
 
 <h3 align="center" style="display: flex; align-items: center; justify-content: center;">
-     Programming Languages ⌨️
+      Languages ⌨️
 </h3>
 <p align="center">
       <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
