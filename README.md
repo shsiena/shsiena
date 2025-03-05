@@ -13,7 +13,7 @@
         <pre><code valign="" style="display: block; text-align: left">
         💻 I like cybersecurity, embedded systems, and fullstack development
         📚 I'm studying mechatronics engineering at the University of Waterloo
-        🌺 Environment: Fedora 41 on WSL 2 with Neovim
+        🌺 My dev environment: Fedora 41 on WSL 2 with Neovim
         🌱 I'm currently developing an NFC tag networking game for a conference
     </td>
     <td align="center" valign="top" width="50%">
