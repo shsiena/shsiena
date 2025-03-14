@@ -19,7 +19,7 @@
     <td align="center" valign="top" width="50%">
       <h2>LeetCode Stats</h2>
       <a href="https://leetcode.com/Arduino_88">
-        <img src="https://leetcard.jacoblin.cool/Arduino_88?theme=unicorn" alt="Leetcode Stats">   
+        <img src="https://leetcard.jacoblin.cool/ssiena?theme=unicorn" alt="Leetcode Stats">   
       </a>
     </td>
   </tr>
