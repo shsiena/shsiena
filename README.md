@@ -54,10 +54,10 @@
     <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-1FB8CD?style=for-the-badge&logo=react&logoColor=white"></a>
     <a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>
     <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-    <a href="https://www.cloudfoundry.org/" target="_blank"><img alt="Cloud Foundry" src="https://img.shields.io/badge/Cloud_Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white"></a>
-    <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
     <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="https://sqlite.org/" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
+    <a href="https://www.cloudfoundry.org/" target="_blank"><img alt="Cloud Foundry" src="https://img.shields.io/badge/Cloud_Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white"></a>
     <a href="https://learning.sap.com/products/business-technology-platform" target="_blank"><img alt="SAP BTP" src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
     <a href="https://insomnia.rest/" target="_blank"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"></a>
 </p>
@@ -81,16 +81,16 @@
     <a href="https://archlinux.org/" target="_blank"><img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"></a>
     <a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
     <a href="https://www.kali.org/" target="_blank"><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+    <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank"><img alt="VMWare" src="https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white"></a>
     <a href="https://www.metasploit.com/" target="_blank"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"></a>
     <a href="https://www.wireshark.org/" target="_blank"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
-    <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank"><img alt="VMWare Workstation" src="https://img.shields.io/badge/VMWare_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white"></a>
     <a href="https://portswigger.net/burp" target="_blank"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
 </p>
 
 <h3 align="center">Hardware and Embedded Systems 🛠️<h3>
 <p align="center">
-    <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP 32" src="https://img.shields.io/badge/ESP%2032-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
     <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+    <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
     <a href="https://micropython.org/" target="_blank"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"></a>
     <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
     <a href="https://www.solidworks.com/" target="_blank"><img alt="SolidWorks" src="https://img.shields.io/badge/Solidworks-e13b3b?style=for-the-badge&logo=dassaultsystemes&logoColor=white"></a>
