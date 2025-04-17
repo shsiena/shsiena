@@ -53,7 +53,7 @@
     <a href="https://vite.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"></a>
     <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>
-    <a href="https://vuejs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>
+    <a href="https://vuejs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-1FB8CD?style=for-the-badge&logo=react&logoColor=white"></a>
     <a href="https://react.dev/" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
     <a href="https://insomnia.rest/" target="_blank"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"></a>
     <a href="https://learning.sap.com/products/business-technology-platform" target="_blank"><img alt="SAP BTP" src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
