@@ -7,12 +7,35 @@
         </a>
       </p>
 
-  <pre><code valign="" style="display: block; text-align: left">
-  💻 I like cybersecurity, embedded systems, and fullstack development
-  📚 I'm studying Mechatronics Engineering at the University of Waterloo
-  🌺 I use neovim btw
-  🌱 I'm currently working on Antlion, a tar-pit for AI webscrapers
-  </code></pre>
+<table>
+  <tr>
+    <td>
+      <div align="left">
+            <ul>
+                  <li>
+                      💻 <code>I like embedded, ML and fullstack web development</code>
+                  </li>
+                  <li>
+                      🎓 <code>I'm studying Mechatronics Engineering at the University of Waterloo</code>
+                  </li>
+                  <li> 
+                      🌺 <code>I use Neovim on Fedora Linux</code>
+                  </li>
+                  <li> 
+                      ⚙️ <code>I'm currently developing Antlion, a tar-pit for AI webscrapers</code>
+                  </li>
+            </ul>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://leetcode.com/Arduino_88">
+          <img src="https://leetcard.jacoblin.cool/ssiena?theme=dark&font=IBM%20Plex%20Sans%20KR&ext=heatmap" alt="Leetcode Stats">   
+        </a>
+      </div>      
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center" style="display: flex; align-items: center; justify-content: center;">
@@ -86,8 +109,4 @@
     <a href="https://www.kicad.org/" target="_blank"><img alt="KiCAD" src="https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white"></a>
 </p>
 </br>
-<div align="center">
-      <a href="https://leetcode.com/Arduino_88">
-        <img src="https://leetcard.jacoblin.cool/ssiena?theme=unicorn" alt="Leetcode Stats">   
-      </a>
-</div>
+
