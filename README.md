@@ -12,9 +12,9 @@
     <td align="left" valign="center" width="50%">
         <pre><code valign="" style="display: block; text-align: left">
         💻 I like cybersecurity, embedded systems, and fullstack development
-        📚 I'm studying mechatronics engineering at the University of Waterloo
-        🌺 My dev environment: Fedora 41 on WSL 2 with Neovim
-        🌱 I'm currently developing an NFC tag networking game for a conference
+        📚 I'm studying Mechatronics Engineering at the University of Waterloo
+        🌺 I use neovim btw
+        🌱 I'm currently working on Antlion, a tar-pit for AI webscrapers
     </td>
     <td align="center" valign="top" width="50%">
       <h2>LeetCode Stats</h2>
