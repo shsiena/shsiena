@@ -48,11 +48,13 @@
   </tr>
 </table>
 
+<!--
 <table>
   <tr>
     <th>
+        <img alt="Keyboard" src="https://github.com/user-attachments/assets/4df785d5-c054-40ae-a10d-67f8d97ff50b">
       <h3>
-        ⌨️ Languages
+        Languages
       </h3>
     </th>
     <th>
@@ -134,11 +136,8 @@
     </td>
   </tr>
 </table>
+-->
 
-
-
-
-<!--
 <h3 align="center">
      ⌨️ Languages 
 </h3>
