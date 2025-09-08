@@ -32,7 +32,7 @@
             🌺 <code>I develop with neovim on fedora linux</code>
           </li>
           <li> 
-            ⚙️ <code>I'm currently building a robotic turret to shoot kamikaze drones out of the sky with thermal imaging, computer vision and pixel-to-voxel projection</code>
+            ⚙️ <code>I'm currently building a robotic turret to shoot down kamikaze drones with thermal imaging, computer vision and pixel-to-voxel projection</code>
           </li>
         </ul>
       </div>
