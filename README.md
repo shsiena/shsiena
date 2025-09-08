@@ -32,7 +32,7 @@
             🌺 <code>I use Neovim on Fedora Linux</code>
           </li>
           <li> 
-            ⚙️ <code>I'm currently developing Antlion, a tar-pit for AI webscrapers</code>
+            ⚙️ <code>I'm currently developing a robotic system to shoot down kamikaze drones</code>
           </li>
         </ul>
       </div>
