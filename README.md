@@ -23,7 +23,7 @@
       <div align="left">
         <ul>
           <li>
-            💻 <code>I like embedded, ML and fullstack web development</code>
+            💻 <code>I like embedded, computer vision, and backend web development</code>
           </li>
           <li>
             🎓 <code>I'm studying Mechatronics Engineering at the University of Waterloo</code>
