@@ -39,7 +39,7 @@
     </td>
     <td>
       <div align="center">
-        <a href="https://leetcode.com/Arduino_88">
+        <a href="https://leetcode.com/ssiena">
           <img src="https://leetcard.jacoblin.cool/ssiena?theme=dark&font=IBM%20Plex%20Sans%20KR&ext=heatmap" alt="Leetcode Stats" />   
         </a>
       </div>      
