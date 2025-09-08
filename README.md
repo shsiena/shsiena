@@ -81,7 +81,6 @@
   <a href="https://sqlite.org/" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=auto"></a>
   <a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto"></a>
   <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto"></a>
-  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&logoSize=auto"></a>
   <a href="https://learning.sap.com/products/business-technology-platform" target="_blank"><img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&logoSize=auto"></a>
   <a href="https://www.cloudfoundry.org/" target="_blank"><img alt="Cloud Foundry" src="https://img.shields.io/badge/Cloud_Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white&logoSize=auto"></a>
   <a href="https://cloud.google.com/" target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoSize=auto"></a>
@@ -89,6 +88,7 @@
   <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&logoSize=auto"></a>
   <a href="https://archlinux.org/" target="_blank"><img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"></a>
   <a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"></a>
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&logoSize=auto"></a>
   <a href="https://www.wireshark.org/" target="_blank"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&logoSize=auto"></a>
   <a href="https://portswigger.net/burp" target="_blank"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&logoSize=auto"></a>
   <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&logoSize=auto"></a>
@@ -125,7 +125,7 @@
 
 
 <h3 align="center">
-  🛠️ CAD / 🔋 Embedded Systems
+  🛠️ CAD / ⚡ Embedded Systems
 </h3>
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
