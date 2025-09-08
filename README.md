@@ -17,7 +17,7 @@
     <td>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6de851&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Mechatronics+Engineering+Student;Backend+Developer;Sysadmin;Game+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6de851&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Mechatronics+Engineering+Student;Backend+Web+Developer;Enjoyer+of+DevOps;High-Mana+Computer+Toucher;Neovim+Enthusiast;Hobbyist+Game+Developer" alt="Typing SVG" />
   </a>
 </div>
       <div align="left">
@@ -29,10 +29,10 @@
             🎓 <code>I'm studying Mechatronics Engineering at the University of Waterloo</code>
           </li>
           <li> 
-            🌺 <code>I use Neovim on Fedora Linux</code>
+            🌺 <code>I develop with neovim on fedora linux</code>
           </li>
           <li> 
-            ⚙️ <code>I'm currently developing a robotic system to shoot down kamikaze drones</code>
+            ⚙️ <code>I'm currently building a robotic turret to shoot kamikaze drones out of the sky with thermal imaging, computer vision and pixel-to-voxel projection</code>
           </li>
         </ul>
       </div>
@@ -64,9 +64,6 @@
   <a href="https://www.opengl.org/" target="_blank"><img alt="GLSL" src="https://img.shields.io/badge/OpenGL%2FGLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&logoSize=auto"></a>
   <a href="https://go.dev" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoSize=auto"></a>
   <a href="https://www.lua.org/" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto"></a>
-
-
-  
 </p>
 
 <h3 align="center">
