@@ -67,7 +67,7 @@
 </p>
 
 <h3 align="center">
-  💻 Backend / ♾️ DevOps / 🔒 Security
+  💻 Backend / ♾️ DevOps
 </h3> 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto"></a>
