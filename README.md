@@ -81,14 +81,6 @@
 </p>
 
 <h3 align="left">
-  Web Servers
-</h3> 
-<p align="left">
-  <a href="https://nginx.org/" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white&logoSize=auto"></a>
-  <a href="https://httpd.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&logoSize=auto"></a>
-</p>
-
-<h3 align="left">
   Containerization and Orchestration
 </h3> 
 <p align="left">
@@ -96,6 +88,8 @@
   <a href="https://https://kubernetes.io/" target="_blank"><img alt="Kubetnetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&logoSize=auto"></a>
   <a href="https://www.cloudfoundry.org/" target="_blank"><img alt="Cloud Foundry" src="https://img.shields.io/badge/Cloud_Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white&logoSize=auto"></a>
 </p>
+
+
 
 <h3 align="left">
   Linux Distributions
@@ -106,6 +100,30 @@
   <a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"></a>
 </p>
 
+<h3 align="left">
+   Machine Learning and Computer Vision
+</h3>
+
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+  <a href="https://docs.pytorch.org/vision/stable/index.html" target="_blank"><img alt="torchvision" src="https://img.shields.io/badge/torchvision-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+  <a href="https://onnxruntime.ai/" target="_blank"><img alt="ONNX" src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.ultralytics.com/yolo" target="_blank"><img alt="Ultralytics YOLO" src="https://img.shields.io/badge/Ultralytics_Yolo-111F68?style=for-the-badge&logo=ultralytics&logoColor=white&logoSize=auto"></a>
+  <a href="https://ollama.com/" target="_blank"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&logoSize=auto"></a>
+</p>
+
+<h3 align="left">
+  Edge AI and Embedded Systems
+</h3>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+  <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/" target="_blank"><img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP32" src="https://img.shields.io/badge/ESP_32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
+  <a href="https://micropython.org/" target="_blank"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white&logoSize=auto"></a>
+</p>
 
 <h3 align="left">
   Cloud Providers
@@ -113,9 +131,9 @@
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PGcgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTQuNTEgNy42ODdxMCAuMjk3LjA1OC40NzUuMDYxLjE3NS4xNy4zODRhLjIzLjIzIDAgMCAxIC4wMzcuMTIzcS4wMDEuMDgtLjEuMTZsLS4zMzYuMjI0YS4yNi4yNiAwIDAgMS0uMTM4LjA0OHEtLjA4LS4wMDEtLjE2LS4wNzRhMS43IDEuNyAwIDAgMS0uMTkyLS4yNTEgNCA0IDAgMCAxLS4xNjQtLjMxNXEtLjYyMy43MzctMS41NjUuNzM3LS42NzIgMC0xLjA2NC0uMzg1LS4zOTMtLjM4NC0uMzk0LTEuMDI1LS4wMDEtLjY4Mi40ODQtMS4xYy4zMjUtLjI3OC43NTYtLjQxNiAxLjMwNC0uNDE2cS4yNy4wMDIuNTY0LjA0MmMuMTk3LjAyNy40LjA3LjYxMi4xMTh2LS4zOXEtLjAwMS0uNjA4LS4yNS0uODU0LS4yNTQtLjI0OC0uODY4LS4yNDYtLjI3OS0uMDAxLS41NzQuMDdhNCA0IDAgMCAwLS41NzUuMTgxIDIgMiAwIDAgMS0uMTg2LjA3LjMuMyAwIDAgMS0uMDg1LjAxNnEtLjExMi4wMDEtLjExMi0uMTY2di0uMjYyYzAtLjA4NS4wMS0uMTUuMDM3LS4xODZhLjQuNCAwIDAgMSAuMTUtLjExM3EuMjc4LS4xNDQuNjctLjI0LjM5LS4xMDMuODMtLjEwMS45NDggMCAxLjM5NC40MzIuNDQuNDMyLjQ0MiAxLjMxNHYxLjczaC4wMXptLTIuMTYxLjgxMXEuMjYxIDAgLjU0OC0uMDk2Yy4xOTItLjA2NC4zNjItLjE4Mi41MDUtLjM0MmEuODUuODUgMCAwIDAgLjE4MS0uMzQxYy4wMzItLjEyOS4wNTQtLjI4My4wNTQtLjQ2NVY3LjAzYTQgNCAwIDAgMC0uNDktLjA5IDQgNCAwIDAgMC0uNS0uMDMzYy0uMzU3IDAtLjYxNy4wNy0uNzkzLjIxNHEtLjI2Mi4yMTUtLjI2LjYxNC0uMDAyLjM3NC4xOTYuNTY2LjE5Mi4xOTguNTU5LjE5N200LjI3My41NzdjLS4wOTYgMC0uMTYtLjAxNi0uMjAyLS4wNTQtLjA0My0uMDMyLS4wOC0uMTA2LS4xMTItLjIwOGwtMS4yNS00LjEyN2ExIDEgMCAwIDEtLjA0OC0uMjE0YzAtLjA4NS4wNDItLjEzMy4xMjctLjEzM2guNTIycS4xNS0uMDAxLjIwNy4wNTNjLjA0My4wMzIuMDc1LjEwNy4xMDcuMjA4bC44OTQgMy41MzUuODMtMy41MzVxLjAzOC0uMTYuMTAxLS4yMDhhLjM3LjM3IDAgMCAxIC4yMTMtLjA1M2guNDI2cS4xNS0uMDAxLjIxMi4wNTNjLjA0My4wMzIuMDguMTA3LjEwMi4yMDhsLjg0IDMuNTc4LjkyLTMuNTc4YS40Ni40NiAwIDAgMSAuMTA3LS4yMDguMzUuMzUgMCAwIDEgLjIwOC0uMDUzaC40OTVjLjA4NSAwIC4xMzMuMDQzLjEzMy4xMzNxLS4wMDIuMDQtLjAxLjA4NmExIDEgMCAwIDEtLjAzOC4xMzNsLTEuMjgzIDQuMTI3cS0uMDQ3LjE2LS4xMTEuMjA5YS4zNC4zNCAwIDAgMS0uMjAzLjA1M2gtLjQ1N3EtLjE1LjAwMS0uMjEzLS4wNTNjLS4wNDMtLjAzOC0uMDgtLjEwNy0uMTAxLS4yMTRMOC4yMTMgNS4zN2wtLjgyIDMuNDM5cS0uMDM4LjE1OS0uMS4yMTNjLS4wNDMuMDM4LS4xMTguMDU0LS4yMTMuMDU0aC0uNDU4em02LjgzOC4xNDRhMy41IDMuNSAwIDAgMS0uODItLjA5NmMtLjI2Ni0uMDY0LS40NzMtLjEzNC0uNjEyLS4yMTQtLjA4NS0uMDQ4LS4xNDMtLjEwMS0uMTY1LS4xNWEuNC40IDAgMCAxLS4wMzEtLjE0OXYtLjI3MnEuMDAxLS4xNjcuMTIyLS4xNjZhLjMuMyAwIDAgMSAuMDk2LjAxNmMuMDMyLjAxMS4wOC4wMzIuMTMzLjA1NC4xOC4wOC4zNzguMTQ0LjU4NS4xODcuMjEzLjA0Mi40Mi4wNjQuNjMzLjA2NHEuNTA1IDAgLjc3Ny0uMTc2YS41Ny41NyAwIDAgMCAuMjc3LS41MDguNTIuNTIgMCAwIDAtLjE0NC0uMzczcS0uMTQ0LS4xNTItLjUzNy0uMjc4bC0uNzcyLS4yNGMtLjM4OC0uMTIzLS42NzYtLjMwNS0uODUxLS41NDVhMS4yNyAxLjI3IDAgMCAxLS4yNjYtLjc3NHEwLS4zMzYuMTQzLS41OTNjLjA5Ni0uMTcuMjI0LS4zMi4zODQtLjQzOGExLjcgMS43IDAgMCAxIC41NTMtLjI3N2MuMjEzLS4wNjQuNDM2LS4wOTEuNjctLjA5MS4xMTggMCAuMjQuMDA1LjM1Ny4wMjFhMy40IDMuNCAwIDAgMSAuNjQ5LjE0NXEuMTQzLjA0OC4yMjQuMDk2YS41LjUgMCAwIDEgLjE2LjEzMy4zLjMgMCAwIDEgLjA0Ny4xNzZ2LjI1MXEtLjAwMS4xNy0uMTIyLjE3MWEuNi42IDAgMCAxLS4yMDItLjA2NCAyLjQgMi40IDAgMCAwLTEuMDIyLS4yMDhjLS4zMDMgMC0uNTQzLjA0OC0uNzA4LjE1cS0uMjQ5LjE0OC0uMjUuNDc1IDAgLjIyNS4xNi4zNzljLjEwNi4xMDEuMzAzLjIwMi41ODUuMjkzbC43NTYuMjRxLjU3Ni4xODQuODI1LjUxMy4yNDYuMzMuMjQ0Ljc0OCAwIC4zNDUtLjEzOC42MTlhMS40IDEuNCAwIDAgMS0uMzg4LjQ3cS0uMjQ3LjE5Ny0uNTkxLjI5OWEyLjUgMi41IDAgMCAxLS43NjEuMTEyIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTQuNDY1IDExLjgxM2MtMS43NSAxLjI5Ny00LjI5NCAxLjk4Ni02LjQ4MSAxLjk4Ni0zLjA2NSAwLTUuODI3LTEuMTM3LTcuOTEzLTMuMDI3LS4xNjUtLjE1LS4wMTYtLjM1My4xOC0uMjM1IDIuMjU3IDEuMzEzIDUuMDQgMi4xMDkgNy45MiAyLjEwOSAxLjk0MSAwIDQuMDc1LS40MDYgNi4wMzktMS4yMzkuMjkzLS4xMzMuNTQzLjE5Mi4yNTUuNDA2IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNS4xOTQgMTAuOThjLS4yMjMtLjI4Ny0xLjQ3OS0uMTM4LTIuMDQ4LS4wNjktLjE3LjAyMi0uMTk3LS4xMjgtLjA0My0uMjQgMS0uNzA1IDIuNjQ1LS41MDIgMi44MzYtLjI2Ny4xOTIuMjQtLjA1MyAxLjg5LS45OSAyLjY4LS4xNDMuMTIzLS4yODEuMDYtLjIxNy0uMS4yMTItLjUzLjY4Ni0xLjcyLjQ2Mi0yLjAwM3oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvZz48L3N2Zz4K&logoColor=white&logoSize=auto"></a>
   <a href="https://cloud.google.com/" target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoSize=auto"></a>
+  <a href="https://cloud.google.com/" target="_blank"><img alt="Google BigQuery" src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white&logoSize=auto"></a>
   <a href="https://learning.sap.com/products/business-technology-platform" target="_blank"><img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&logoSize=auto"></a>
 </p>
-
 
 <h3 align="left">
   Frontend Frameworks and Tools
@@ -131,16 +149,11 @@
 </p>
 
 <h3 align="left">
-   Machine Learning and Computer Vision
-</h3>
-
+  Web Servers
+</h3> 
 <p align="left">
-  <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
-  <a href="https://docs.pytorch.org/vision/stable/index.html" target="_blank"><img alt="torchvision" src="https://img.shields.io/badge/torchvision-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
-  <a href="https://www.anaconda.com/" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-  <a href="https://onnxruntime.ai/" target="_blank"><img alt="ONNX" src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white&logoSize=auto"></a>
-  <a href="https://www.ultralytics.com/yolo" target="_blank"><img alt="ONNX" src="https://img.shields.io/badge/Ultralytics_Yolo-111F68?style=for-the-badge&logo=ultralytics&logoColor=white&logoSize=auto"></a>
+  <a href="https://nginx.org/" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white&logoSize=auto"></a>
+  <a href="https://httpd.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&logoSize=auto"></a>
 </p>
 
 <h3 align="left">
@@ -158,22 +171,11 @@
   <a href="https://github.com/mrdoob/three.js" target="_blank"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&logoSize=auto"></a>
   <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&logoSize=auto"></a>
   <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto"></a>
-</p>
-
-
-<h3 align="left">
-  Edge AI and Embedded Systems
-</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-  <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/" target="_blank"><img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP32" src="https://img.shields.io/badge/ESP_32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&logoSize=auto"></a>
-  <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
-  <a href="https://micropython.org/" target="_blank"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.blender.org/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"></a>
 </p>
 
 <h3 align="left">
-  CAD
+  Computer Aided Design (CAD)
 </h3>
 <p align="left">
   <a href="https://www.kicad.org/" target="_blank"><img alt="KiCAD" src="https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white&logoSize=auto"></a>
