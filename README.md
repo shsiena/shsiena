@@ -49,26 +49,28 @@
 
  ***
 
-<h3 align="center">
+<h3 align="left">
      ⌨️ Languages 
 </h3>
-<p align="center">
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto"></a>
   <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"></a>
   <a href="https://cplusplus.com/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto"></a>
   <a href="https://www.c-language.org/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-7e93aa?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" src="https://img.shields.io/badge/Shell-283037?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto"></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-f75208?style=for-the-badge&logo=rust&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="GNU Bash" src="https://img.shields.io/badge/Bash-283037?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&logoSize=auto"></a>
   <a href="https://github.com/PowerShell/PowerShell" target="_blank"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=educative&logoColor=white&logoSize=auto"></a>
- <!-- <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-d68107?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ny4xOSA2NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5iIHsKICAgICAgICBmaWxsOiAjZmZmOwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iYiIgZD0iTTE1LjI2LDQ5LjQ4cy0yLjQ2LDEuNSwxLjcxLDEuOTJjNS4wMi42NCw3LjY5LjUzLDEzLjI1LS41MywxLjEyLjY4LDIuMywxLjI2LDMuNTMsMS43MS0xMi41LDUuMzQtMjguMzItLjMyLTE4LjQ5LTMuMWgwWk0xMy42Niw0Mi41M3MtMi42NywyLjAzLDEuNSwyLjQ2YzUuNDUuNTMsOS43Mi42NCwxNy4xLS44NS43Mi43MywxLjYsMS4yOCwyLjU2LDEuNi0xNS4wNyw0LjQ5LTMxLjk1LjQzLTIxLjE2LTMuMjFoMFpNNDMuMTUsNTQuNzFzMS44MiwxLjUtMi4wMywyLjY3Yy03LjE2LDIuMTQtMzAuMDMsMi43OC0zNi40NCwwLTIuMjQtLjk2LDIuMDMtMi4zNSwzLjQtMi41NiwxLjM5LS4zMiwyLjE0LS4zMiwyLjE0LS4zMi0yLjQ2LTEuNzEtMTYuMzUsMy41My03LjA1LDUuMDIsMjUuNTQsNC4xNyw0Ni41OS0xLjgyLDM5Ljk3LTQuODFoLjAyWk0xNi40MSwzNS4yNnMtMTEuNjUsMi43OC00LjE3LDMuNzRjMy4yMS40Myw5LjUxLjMyLDE1LjM5LS4xMSw0LjgxLS40Myw5LjYyLTEuMjgsOS42Mi0xLjI4LDAsMC0xLjcxLjc1LTIuODksMS41LTExLjg2LDMuMS0zNC42MiwxLjcxLTI4LjEtMS41LDUuNTYtMi42NywxMC4xNS0yLjM1LDEwLjE1LTIuMzVoMFpNMzcuMjUsNDYuOTFjMTEuOTctNi4yLDYuNDEtMTIuMTgsMi41Ni0xMS40My0uOTYuMjEtMS4zOS40My0xLjM5LjQzLDAsMCwuMzItLjY0LDEuMDctLjg1LDcuNTktMi42NywxMy41Nyw4LjAxLTIuNDYsMTIuMTgsMCwwLC4xMS0uMTEuMjEtLjMyaDBaTTE3LjU5LDYzLjhjMTEuNTQuNzUsMjkuMTctLjQzLDI5LjYtNS44OCwwLDAtLjg1LDIuMTQtOS41MSwzLjc0LTkuODMsMS44Mi0yMi4wMSwxLjYtMjkuMTcuNDMsMCwwLDEuNSwxLjI4LDkuMDgsMS43MWgwWiIvPgogIDxwYXRoIGNsYXNzPSJiIiBkPSJNMzAsMHM2LjYzLDYuNzMtNi4zLDE2Ljg4Yy0xMC4zNyw4LjIzLTIuMzUsMTIuOTMsMCwxOC4yNy02LjA5LTUuNDUtMTAuNDctMTAuMjYtNy40OC0xNC43NSw0LjM4LTYuNjMsMTYuNDYtOS44MSwxMy43OC0yMC40MVpNMjYuNiwzMC42N2MzLjEsMy41My0uODUsNi43My0uODUsNi43MywwLDAsNy45MS00LjA2LDQuMjctOS4wOC0zLjMxLTQuODEtNS44OC03LjE2LDguMDEtMTUuMTcsMCwwLTIxLjkxLDUuNDUtMTEuNDMsMTcuNTNaIi8+Cjwvc3ZnPg==&logoColor=white&logoSize=auto"></a>
-  -->
+  <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-d68107?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ny4xOSA2NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5iIHsKICAgICAgICBmaWxsOiAjZmZmOwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iYiIgZD0iTTE1LjI2LDQ5LjQ4cy0yLjQ2LDEuNSwxLjcxLDEuOTJjNS4wMi42NCw3LjY5LjUzLDEzLjI1LS41MywxLjEyLjY4LDIuMywxLjI2LDMuNTMsMS43MS0xMi41LDUuMzQtMjguMzItLjMyLTE4LjQ5LTMuMWgwWk0xMy42Niw0Mi41M3MtMi42NywyLjAzLDEuNSwyLjQ2YzUuNDUuNTMsOS43Mi42NCwxNy4xLS44NS43Mi43MywxLjYsMS4yOCwyLjU2LDEuNi0xNS4wNyw0LjQ5LTMxLjk1LjQzLTIxLjE2LTMuMjFoMFpNNDMuMTUsNTQuNzFzMS44MiwxLjUtMi4wMywyLjY3Yy03LjE2LDIuMTQtMzAuMDMsMi43OC0zNi40NCwwLTIuMjQtLjk2LDIuMDMtMi4zNSwzLjQtMi41NiwxLjM5LS4zMiwyLjE0LS4zMiwyLjE0LS4zMi0yLjQ2LTEuNzEtMTYuMzUsMy41My03LjA1LDUuMDIsMjUuNTQsNC4xNyw0Ni41OS0xLjgyLDM5Ljk3LTQuODFoLjAyWk0xNi40MSwzNS4yNnMtMTEuNjUsMi43OC00LjE3LDMuNzRjMy4yMS40Myw5LjUxLjMyLDE1LjM5LS4xMSw0LjgxLS40Myw5LjYyLTEuMjgsOS42Mi0xLjI4LDAsMC0xLjcxLjc1LTIuODksMS41LTExLjg2LDMuMS0zNC42MiwxLjcxLTI4LjEtMS41LDUuNTYtMi42NywxMC4xNS0yLjM1LDEwLjE1LTIuMzVoMFpNMzcuMjUsNDYuOTFjMTEuOTctNi4yLDYuNDEtMTIuMTgsMi41Ni0xMS40My0uOTYuMjEtMS4zOS40My0xLjM5LjQzLDAsMCwuMzItLjY0LDEuMDctLjg1LDcuNTktMi42NywxMy41Nyw4LjAxLTIuNDYsMTIuMTgsMCwwLC4xMS0uMTEuMjEtLjMyaDBaTTE3LjU5LDYzLjhjMTEuNTQuNzUsMjkuMTctLjQzLDI5LjYtNS44OCwwLDAtLjg1LDIuMTQtOS41MSwzLjc0LTkuODMsMS44Mi0yMi4wMSwxLjYtMjkuMTcuNDMsMCwwLDEuNSwxLjI4LDkuMDgsMS43MWgwWiIvPgogIDxwYXRoIGNsYXNzPSJiIiBkPSJNMzAsMHM2LjYzLDYuNzMtNi4zLDE2Ljg4Yy0xMC4zNyw4LjIzLTIuMzUsMTIuOTMsMCwxOC4yNy02LjA5LTUuNDUtMTAuNDctMTAuMjYtNy40OC0xNC43NSw0LjM4LTYuNjMsMTYuNDYtOS44MSwxMy43OC0yMC40MVpNMjYuNiwzMC42N2MzLjEsMy41My0uODUsNi43My0uODUsNi43MywwLDAsNy45MS00LjA2LDQuMjctOS4wOC0zLjMxLTQuODEtNS44OC03LjE2LDguMDEtMTUuMTcsMCwwLTIxLjkxLDUuNDUtMTEuNDMsMTcuNTNaIi8+Cjwvc3ZnPg==&logoColor=white&logoSize=auto"></a>
   <a href="https://www.lua.org/" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white&logoSize=auto"></a>
+  
 </p>
 
-<h3 align="center">
+<h3 align="left">
   💻 Backend / ♾️ DevOps
 </h3> 
-<p align="center">
+<p align="left">
   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto"></a>
   <a href="https://https://kubernetes.io/" target="_blank"><img alt="Kubetnetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&logoSize=auto"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto"></a>
@@ -86,10 +88,10 @@
   <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&logoSize=auto"></a>
 </p>
 
-<h3 align="center">
+<h3 align="left">
   🎨 Frontend
 </h3> 
-<p align="center">
+<p align="left">
   <a href="https://svelte.dev/" target="_blank"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&logoSize=auto"></a>
   <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-1FB8CD?style=for-the-badge&logo=react&logoColor=white&logoSize=auto"></a>
   <a href="https://vite.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto"></a>
@@ -97,13 +99,14 @@
   <a href="https://www.khronos.org/webgl/wiki/Main_Page" target="_blank"><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white&logoSize=auto"></a>
   <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=auto"></a>
   <a href="https://threejs.org/" target="_blank"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&logoSize=auto"></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=auto"></a>
 </p>
 
-<h3 align="center">
+<h3 align="left">
    🐍 Python / ✨ Machine Learning
 </h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.anaconda.com/" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
   <a href="https://www.selenium.dev" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto"></a>
@@ -115,10 +118,10 @@
 </p>
 
 
-<h3 align="center">
+<h3 align="left">
   🛠️ CAD / ⚡ Embedded Systems
 </h3>
-<p align="center">
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
   <a href="https://www.kicad.org/" target="_blank"><img alt="KiCAD" src="https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white&logoSize=auto"></a>
   <a href="https://micropython.org/" target="_blank"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white&logoSize=auto"></a>
