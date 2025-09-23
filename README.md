@@ -136,7 +136,7 @@
 </p>
 
 <h3 align="left">
-  Frontend Frameworks and Tools
+  Frontend Frameworks and Tooling
 </h3> 
 <p align="left">
   <a href="https://svelte.dev/" target="_blank"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&logoSize=auto"></a>
