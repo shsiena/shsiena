@@ -26,7 +26,7 @@
             💻 <code>I like embedded, computer vision, and backend web development</code>
           </li>
           <li>
-            🎓 <code>I'm studying Mechatronics Engineering at the University of Waterloo</code>
+            🎓 <code>I'm studying mechatronics engineering at the University of Waterloo</code>
           </li>
           <li> 
             🌺 <code>I develop with neovim on fedora linux</code>
