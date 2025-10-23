@@ -109,7 +109,6 @@
   <a href="https://www.anaconda.com/" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
   <a href="https://onnxruntime.ai/" target="_blank"><img alt="ONNX" src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white&logoSize=auto"></a>
   <a href="https://www.ultralytics.com/yolo" target="_blank"><img alt="Ultralytics YOLO" src="https://img.shields.io/badge/Ultralytics_Yolo-111F68?style=for-the-badge&logo=ultralytics&logoColor=white&logoSize=auto"></a>
-  <a href="https://ollama.com/" target="_blank"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&logoSize=auto"></a>
 </p>
 
 <h3 align="left">
@@ -169,6 +168,7 @@
   <a href="https://github.com/mrdoob/three.js" target="_blank"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&logoSize=auto"></a>
   <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&logoSize=auto"></a>
   <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto"></a>
+  <a href="https://ollama.com/" target="_blank"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&logoSize=auto"></a>
   <a href="https://www.blender.org/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"></a>
 </p>
 
