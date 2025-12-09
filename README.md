@@ -65,7 +65,7 @@
   <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-d68107?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ny4xOSA2NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5iIHsKICAgICAgICBmaWxsOiAjZmZmOwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iYiIgZD0iTTE1LjI2LDQ5LjQ4cy0yLjQ2LDEuNSwxLjcxLDEuOTJjNS4wMi42NCw3LjY5LjUzLDEzLjI1LS41MywxLjEyLjY4LDIuMywxLjI2LDMuNTMsMS43MS0xMi41LDUuMzQtMjguMzItLjMyLTE4LjQ5LTMuMWgwWk0xMy42Niw0Mi41M3MtMi42NywyLjAzLDEuNSwyLjQ2YzUuNDUuNTMsOS43Mi42NCwxNy4xLS44NS43Mi43MywxLjYsMS4yOCwyLjU2LDEuNi0xNS4wNyw0LjQ5LTMxLjk1LjQzLTIxLjE2LTMuMjFoMFpNNDMuMTUsNTQuNzFzMS44MiwxLjUtMi4wMywyLjY3Yy03LjE2LDIuMTQtMzAuMDMsMi43OC0zNi40NCwwLTIuMjQtLjk2LDIuMDMtMi4zNSwzLjQtMi41NiwxLjM5LS4zMiwyLjE0LS4zMiwyLjE0LS4zMi0yLjQ2LTEuNzEtMTYuMzUsMy41My03LjA1LDUuMDIsMjUuNTQsNC4xNyw0Ni41OS0xLjgyLDM5Ljk3LTQuODFoLjAyWk0xNi40MSwzNS4yNnMtMTEuNjUsMi43OC00LjE3LDMuNzRjMy4yMS40Myw5LjUxLjMyLDE1LjM5LS4xMSw0LjgxLS40Myw5LjYyLTEuMjgsOS42Mi0xLjI4LDAsMC0xLjcxLjc1LTIuODksMS41LTExLjg2LDMuMS0zNC42MiwxLjcxLTI4LjEtMS41LDUuNTYtMi42NywxMC4xNS0yLjM1LDEwLjE1LTIuMzVoMFpNMzcuMjUsNDYuOTFjMTEuOTctNi4yLDYuNDEtMTIuMTgsMi41Ni0xMS40My0uOTYuMjEtMS4zOS40My0xLjM5LjQzLDAsMCwuMzItLjY0LDEuMDctLjg1LDcuNTktMi42NywxMy41Nyw4LjAxLTIuNDYsMTIuMTgsMCwwLC4xMS0uMTEuMjEtLjMyaDBaTTE3LjU5LDYzLjhjMTEuNTQuNzUsMjkuMTctLjQzLDI5LjYtNS44OCwwLDAtLjg1LDIuMTQtOS41MSwzLjc0LTkuODMsMS44Mi0yMi4wMSwxLjYtMjkuMTcuNDMsMCwwLDEuNSwxLjI4LDkuMDgsMS43MWgwWiIvPgogIDxwYXRoIGNsYXNzPSJiIiBkPSJNMzAsMHM2LjYzLDYuNzMtNi4zLDE2Ljg4Yy0xMC4zNyw4LjIzLTIuMzUsMTIuOTMsMCwxOC4yNy02LjA5LTUuNDUtMTAuNDctMTAuMjYtNy40OC0xNC43NSw0LjM4LTYuNjMsMTYuNDYtOS44MSwxMy43OC0yMC40MVpNMjYuNiwzMC42N2MzLjEsMy41My0uODUsNi43My0uODUsNi43MywwLDAsNy45MS00LjA2LDQuMjctOS4wOC0zLjMxLTQuODEtNS44OC03LjE2LDguMDEtMTUuMTcsMCwwLTIxLjkxLDUuNDUtMTEuNDMsMTcuNTNaIi8+Cjwvc3ZnPg==&logoColor=white&logoSize=auto"></a>
   <a href="https://www.lua.org/" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto"></a>
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto"></a>
-  <a href="https://www.khronos.org/webgl/wiki/Main_Page" target="_blank"><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white&logoSize=auto"></a>
+  <a href="https://wikis.khronos.org/opengl/Core_Language_(GLSL)" target="_blank"><img alt="GLSL" src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&logoSize=auto"></a>
   
 </p>
 
@@ -76,6 +76,7 @@
   <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto"></a>
   <a href="https://sqlite.org/" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=auto"></a>
   <a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto"></a>
+  <a href="https://orm.drizzle.team/" target="_blank"><img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black&logoSize=auto"></a>
 </p>
 
 <h3 align="left">
@@ -107,7 +108,8 @@
   <a href="https://docs.pytorch.org/vision/stable/index.html" target="_blank"><img alt="torchvision" src="https://img.shields.io/badge/torchvision-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
   <a href="https://www.anaconda.com/" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-  <a href="https://onnxruntime.ai/" target="_blank"><img alt="ONNX" src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white&logoSize=auto"></a>
+  <a href="https://onnxruntime.ai/" target="_blank"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&logoSize=auto"></a>
+  <a href="https://developer.nvidia.com/tensorrt" target="_blank"><img alt="CUDA" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto"></a>
   <a href="https://www.ultralytics.com/yolo" target="_blank"><img alt="Ultralytics YOLO" src="https://img.shields.io/badge/Ultralytics_Yolo-111F68?style=for-the-badge&logo=ultralytics&logoColor=white&logoSize=auto"></a>
 </p>
 
