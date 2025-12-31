@@ -150,6 +150,7 @@
   <a href="https://www.khronos.org/webgl/" target="_blank"><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white&logoSize=auto"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API" target="_blank"><img alt="WebGPU" src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white&logoSize=auto"></a>
   <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=auto"></a>
+  <a href="https://gsap.com/" target="_blank"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-07b137?style=for-the-badge&logo=gsap&logoColor=white&logoSize=auto"></a>
   <a href="https://nginx.org/" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white&logoSize=auto"></a>
   <!-- <a href="https://httpd.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&logoSize=auto"></a> -->
 </p>
