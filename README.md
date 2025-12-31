@@ -168,8 +168,7 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
   <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&logoSize=auto"></a>
   <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto"></a>
-  <a href="https://ollama.com/" target="_blank"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&logoSize=auto"></a>
-  <a href="https://www.blender.org/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.langchain.com/" target="_blank"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&logoSize=auto"></a>
 </p>
 
 <h3 align="left">
