@@ -113,13 +113,13 @@
 </p>
 
 <h3 align="left">
-  Edge AI and Embedded Systems
+  Embedded Systems
 </h3>
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-  <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/" target="_blank"><img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP32" src="https://img.shields.io/badge/ESP_32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&logoSize=auto"></a>
   <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
+  <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/" target="_blank"><img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
   <!-- <a href="https://micropython.org/" target="_blank"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white&logoSize=auto"></a> -->
 </p>
 
