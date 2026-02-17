@@ -4,66 +4,57 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
-<table>
+<table align="left">
   <tr>
     <th>
       <strong>About Me</strong>
     </th>
-    <th>
-      <strong>My Leetcode Stats</strong>
-    </th>
   </tr>
   <tr>
     <td>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6de851&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Mechatronics+Engineering+Student;Backend+Web+Developer;Neovim+User;GPU+Programmer" alt="Typing SVG" />
-  </a>
-</div>
+      <div align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6de851&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Mechatronics+Engineering+Student;Backend+Web+Developer;GPU+Programmer" alt="Typing SVG" />
+        </a>
+      </div>
       <div align="left">
         <ul>
           <li>
-            💻 <code>I like gpu programming, computer vision, and backend web development</code>
+            💻 <code>I like gpu programming, computer vision, and fullstack web development</code>
           </li>
           <li>
             🎓 <code>I'm studying mechatronics engineering at the University of Waterloo</code>
           </li>
           <li> 
-            🌺 <code>I develop with neovim on fedora linux</code>
+            🌺 <code>I use neovim + arch + hyprland</code>
           </li>
           <li> 
-            ⚙️ <code>I'm currently building a robotic turret to shoot down kamikaze drones with thermal imaging, computer vision and pixel-to-voxel projection</code>
+            ⚙️ <code>I'm currently working on a new temporal sensor fusion algorithm for tracking drones, birds and planes</code>
           </li>
         </ul>
       </div>
     </td>
-    <td>
-      <div align="center">
-        <a href="https://leetcode.com/ssiena">
-          <img src="https://leetcard.jacoblin.cool/ssiena?theme=dark&font=IBM%20Plex%20Sans%20KR&ext=heatmap" alt="Leetcode Stats" />   
-        </a>
-      </div>      
-    </td>
   </tr>
 </table>
 
- ***
+<br>
+
+
 
 <h3 align="left">
-     Programming
+     Languages I Enjoy
 </h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto"></a>
-  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"></a>
   <a href="https://cplusplus.com/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto"></a>
-  <a href="https://www.c-language.org/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-7e93aa?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"></a>
-  <!-- <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-d68107?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ny4xOSA2NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5iIHsKICAgICAgICBmaWxsOiAjZmZmOwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iYiIgZD0iTTE1LjI2LDQ5LjQ4cy0yLjQ2LDEuNSwxLjcxLDEuOTJjNS4wMi42NCw3LjY5LjUzLDEzLjI1LS41MywxLjEyLjY4LDIuMywxLjI2LDMuNTMsMS43MS0xMi41LDUuMzQtMjguMzItLjMyLTE4LjQ5LTMuMWgwWk0xMy42Niw0Mi41M3MtMi42NywyLjAzLDEuNSwyLjQ2YzUuNDUuNTMsOS43Mi42NCwxNy4xLS44NS43Mi43MywxLjYsMS4yOCwyLjU2LDEuNi0xNS4wNyw0LjQ5LTMxLjk1LjQzLTIxLjE2LTMuMjFoMFpNNDMuMTUsNTQuNzFzMS44MiwxLjUtMi4wMywyLjY3Yy03LjE2LDIuMTQtMzAuMDMsMi43OC0zNi40NCwwLTIuMjQtLjk2LDIuMDMtMi4zNSwzLjQtMi41NiwxLjM5LS4zMiwyLjE0LS4zMiwyLjE0LS4zMi0yLjQ2LTEuNzEtMTYuMzUsMy41My03LjA1LDUuMDIsMjUuNTQsNC4xNyw0Ni41OS0xLjgyLDM5Ljk3LTQuODFoLjAyWk0xNi40MSwzNS4yNnMtMTEuNjUsMi43OC00LjE3LDMuNzRjMy4yMS40Myw5LjUxLjMyLDE1LjM5LS4xMSw0LjgxLS40Myw5LjYyLTEuMjgsOS42Mi0xLjI4LDAsMC0xLjcxLjc1LTIuODksMS41LTExLjg2LDMuMS0zNC42MiwxLjcxLTI4LjEtMS41LDUuNTYtMi42NywxMC4xNS0yLjM1LDEwLjE1LTIuMzVoMFpNMzcuMjUsNDYuOTFjMTEuOTctNi4yLDYuNDEtMTIuMTgsMi41Ni0xMS40My0uOTYuMjEtMS4zOS40My0xLjM5LjQzLDAsMCwuMzItLjY0LDEuMDctLjg1LDcuNTktMi42NywxMy41Nyw4LjAxLTIuNDYsMTIuMTgsMCwwLC4xMS0uMTEuMjEtLjMyaDBaTTE3LjU5LDYzLjhjMTEuNTQuNzUsMjkuMTctLjQzLDI5LjYtNS44OCwwLDAtLjg1LDIuMTQtOS41MSwzLjc0LTkuODMsMS44Mi0yMi4wMSwxLjYtMjkuMTcuNDMsMCwwLDEuNSwxLjI4LDkuMDgsMS43MWgwWiIvPgogIDxwYXRoIGNsYXNzPSJiIiBkPSJNMzAsMHM2LjYzLDYuNzMtNi4zLDE2Ljg4Yy0xMC4zNyw4LjIzLTIuMzUsMTIuOTMsMCwxOC4yNy02LjA5LTUuNDUtMTAuNDctMTAuMjYtNy40OC0xNC43NSw0LjM4LTYuNjMsMTYuNDYtOS44MSwxMy43OC0yMC40MVpNMjYuNiwzMC42N2MzLjEsMy41My0uODUsNi43My0uODUsNi43MywwLDAsNy45MS00LjA2LDQuMjctOS4wOC0zLjMxLTQuODEtNS44OC03LjE2LDguMDEtMTUuMTcsMCwwLTIxLjkxLDUuNDUtMTEuNDMsMTcuNTNaIi8+Cjwvc3ZnPg==&logoColor=white&logoSize=auto"></a> -->
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto"></a>
   <a href="https://wikis.khronos.org/opengl/Core_Language_(GLSL)" target="_blank"><img alt="GLSL" src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.c-language.org/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-7e93aa?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"></a>
+  <!-- <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-d68107?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ny4xOSA2NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5iIHsKICAgICAgICBmaWxsOiAjZmZmOwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iYiIgZD0iTTE1LjI2LDQ5LjQ4cy0yLjQ2LDEuNSwxLjcxLDEuOTJjNS4wMi42NCw3LjY5LjUzLDEzLjI1LS41MywxLjEyLjY4LDIuMywxLjI2LDMuNTMsMS43MS0xMi41LDUuMzQtMjguMzItLjMyLTE4LjQ5LTMuMWgwWk0xMy42Niw0Mi41M3MtMi42NywyLjAzLDEuNSwyLjQ2YzUuNDUuNTMsOS43Mi42NCwxNy4xLS44NS43Mi43MywxLjYsMS4yOCwyLjU2LDEuNi0xNS4wNyw0LjQ5LTMxLjk1LjQzLTIxLjE2LTMuMjFoMFpNNDMuMTUsNTQuNzFzMS44MiwxLjUtMi4wMywyLjY3Yy03LjE2LDIuMTQtMzAuMDMsMi43OC0zNi40NCwwLTIuMjQtLjk2LDIuMDMtMi4zNSwzLjQtMi41NiwxLjM5LS4zMiwyLjE0LS4zMiwyLjE0LS4zMi0yLjQ2LTEuNzEtMTYuMzUsMy41My03LjA1LDUuMDIsMjUuNTQsNC4xNyw0Ni41OS0xLjgyLDM5Ljk3LTQuODFoLjAyWk0xNi40MSwzNS4yNnMtMTEuNjUsMi43OC00LjE3LDMuNzRjMy4yMS40Myw5LjUxLjMyLDE1LjM5LS4xMSw0LjgxLS40Myw5LjYyLTEuMjgsOS42Mi0xLjI4LDAsMC0xLjcxLjc1LTIuODksMS41LTExLjg2LDMuMS0zNC42MiwxLjcxLTI4LjEtMS41LDUuNTYtMi42NywxMC4xNS0yLjM1LDEwLjE1LTIuMzVoMFpNMzcuMjUsNDYuOTFjMTEuOTctNi4yLDYuNDEtMTIuMTgsMi41Ni0xMS40My0uOTYuMjEtMS4zOS40My0xLjM5LjQzLDAsMCwuMzItLjY0LDEuMDctLjg1LDcuNTktMi42NywxMy41Nyw4LjAxLTIuNDYsMTIuMTgsMCwwLC4xMS0uMTEuMjEtLjMyaDBaTTE3LjU5LDYzLjhjMTEuNTQuNzUsMjkuMTctLjQzLDI5LjYtNS44OCwwLDAtLjg1LDIuMTQtOS41MSwzLjc0LTkuODMsMS44Mi0yMi4wMSwxLjYtMjkuMTcuNDMsMCwwLDEuNSwxLjI4LDkuMDgsMS43MWgwWiIvPgogIDxwYXRoIGNsYXNzPSJiIiBkPSJNMzAsMHM2LjYzLDYuNzMtNi4zLDE2Ljg4Yy0xMC4zNyw4LjIzLTIuMzUsMTIuOTMsMCwxOC4yNy02LjA5LTUuNDUtMTAuNDctMTAuMjYtNy40OC0xNC43NSw0LjM4LTYuNjMsMTYuNDYtOS44MSwxMy43OC0yMC40MVpNMjYuNiwzMC42N2MzLjEsMy41My0uODUsNi43My0uODUsNi43MywwLDAsNy45MS00LjA2LDQuMjctOS4wOC0zLjMxLTQuODEtNS44OC03LjE2LDguMDEtMTUuMTcsMCwwLTIxLjkxLDUuNDUtMTEuNDMsMTcuNTNaIi8+Cjwvc3ZnPg==&logoColor=white&logoSize=auto"></a> -->
   <a href="https://go.dev/" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoSize=auto"></a>
   <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&logoSize=auto"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="GNU Bash" src="https://img.shields.io/badge/Bash-283037?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto"></a>
-  <a href="https://github.com/PowerShell/PowerShell" target="_blank"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=educative&logoColor=white"></a>
   <a href="https://www.lua.org/" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto"></a>
   
 </p>
@@ -93,8 +84,8 @@
   Linux Distributions
 </h3> 
 <p align="left">
-  <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&logoSize=auto"></a>
   <a href="https://archlinux.org/" target="_blank"><img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"></a>
+  <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&logoSize=auto"></a>
   <a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"></a>
 </p>
 
@@ -180,5 +171,15 @@
   <a href="https://www.solidworks.com/" target="_blank"><img alt="SolidWorks" src="https://img.shields.io/badge/Solidworks-e13b3b?style=for-the-badge&logo=dassaultsystemes&logoColor=white&logoSize=auto"></a>
   <a href="https://www.autodesk.com/ca-en/products/autocad/overview" target="_blank"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white"></a>
 </p>
+
+
+<h2 align="left">
+  My Leetcode Stats
+</h2>
+<div align="left">
+        <a href="https://leetcode.com/ssiena">
+          <img src="https://leetcard.jacoblin.cool/ssiena?theme=dark&font=IBM%20Plex%20Sans%20KR&ext=heatmap" alt="Leetcode Stats" />   
+        </a>
+      </div>    
 
 </br>
