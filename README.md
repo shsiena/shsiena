@@ -4,42 +4,42 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
-<table align="left">
-  <tr>
-    <th>
-      <strong>About Me</strong>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6de851&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Mechatronics+Engineering+Student;Backend+Web+Developer;GPU+Programmer" alt="Typing SVG" />
-        </a>
-      </div>
-      <div align="left">
-        <ul>
-          <li>
-            💻 <code>I like gpu programming, computer vision, and fullstack web development</code>
-          </li>
-          <li>
-            🎓 <code>I'm studying mechatronics engineering at the University of Waterloo</code>
-          </li>
-          <li> 
-            🌺 <code>I use neovim + arch + hyprland</code>
-          </li>
-          <li> 
-            ⚙️ <code>I'm currently working on a temporal sensor fusion algorithm for tracking drones, birds and planes</code>
-          </li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
+<div>
+  <table align="left">
+    <tr>
+      <th>
+        <strong>About Me</strong>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6de851&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Mechatronics+Engineering+Student;Backend+Web+Developer;GPU+Programmer" alt="Typing SVG" />
+          </a>
+        </div>
+        <div align="left">
+          <ul>
+            <li>
+              💻 <code>I like gpu programming, computer vision, and fullstack web development</code>
+            </li>
+            <li>
+              🎓 <code>I'm studying mechatronics engineering at the University of Waterloo</code>
+            </li>
+            <li> 
+              🌺 <code>I use neovim + arch + hyprland</code>
+            </li>
+            <li> 
+              ⚙️ <code>I'm currently working on a temporal sensor fusion algorithm for tracking birds, drones, and stealth planes</code>
+            </li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<br>
-
-
+<div>
 
 <h3 align="left">
      Languages I Enjoy
@@ -58,6 +58,8 @@
   <a href="https://www.lua.org/" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto"></a>
   
 </p>
+
+</div>
 
 <h3 align="left">
   Databases and ORMs
