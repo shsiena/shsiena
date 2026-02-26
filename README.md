@@ -21,13 +21,13 @@
         <div align="left">
           <ul>
             <li>
-              💻 <code>I like shaders, computer vision, and fullstack web development</code>
+              💻 <code>I like shaders, computer vision, embedded systems, reverse engineering, and fullstack web development</code>
             </li>
             <li>
               🎓 <code>I'm studying mechatronics engineering at the University of Waterloo</code>
             </li>
             <li> 
-              🌺 <code>I use neovim + arch + hyprland</code>
+              🌺 <code>I use arch + hyprland + neovim (btw)</code>
             </li>
             <li> 
               ⚙️ <code>I'm currently working on a temporal sensor fusion algorithm for tracking birds, drones, and stealth planes</code>
