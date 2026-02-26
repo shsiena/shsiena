@@ -51,8 +51,6 @@
     <a href="https://wikis.khronos.org/opengl/Core_Language_(GLSL)" target="_blank"><img alt="GLSL" src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&logoSize=auto"></a>
     <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"></a>
     <a href="https://www.c-language.org/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-7e93aa?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"></a>
-    <!-- <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-d68107?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ny4xOSA2NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5iIHsKICAgICAgICBmaWxsOiAjZmZmOwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iYiIgZD0iTTE1LjI2LDQ5LjQ4cy0yLjQ2LDEuNSwxLjcxLDEuOTJjNS4wMi42NCw3LjY5LjUzLDEzLjI1LS41MywxLjEyLjY4LDIuMywxLjI2LDMuNTMsMS43MS0xMi41LDUuMzQtMjguMzItLjMyLTE4LjQ5LTMuMWgwWk0xMy42Niw0Mi41M3MtMi42NywyLjAzLDEuNSwyLjQ2YzUuNDUuNTMsOS43Mi42NCwxNy4xLS44NS43Mi43MywxLjYsMS4yOCwyLjU2LDEuNi0xNS4wNyw0LjQ5LTMxLjk1LjQzLTIxLjE2LTMuMjFoMFpNNDMuMTUsNTQuNzFzMS44MiwxLjUtMi4wMywyLjY3Yy03LjE2LDIuMTQtMzAuMDMsMi43OC0zNi40NCwwLTIuMjQtLjk2LDIuMDMtMi4zNSwzLjQtMi41NiwxLjM5LS4zMiwyLjE0LS4zMiwyLjE0LS4zMi0yLjQ2LTEuNzEtMTYuMzUsMy41My03LjA1LDUuMDIsMjUuNTQsNC4xNyw0Ni41OS0xLjgyLDM5Ljk3LTQuODFoLjAyWk0xNi40MSwzNS4yNnMtMTEuNjUsMi43OC00LjE3LDMuNzRjMy4yMS40Myw5LjUxLjMyLDE1LjM5LS4xMSw0LjgxLS40Myw5LjYyLTEuMjgsOS42Mi0xLjI4LDAsMC0xLjcxLjc1LTIuODksMS41LTExLjg2LDMuMS0zNC42MiwxLjcxLTI4LjEtMS41LDUuNTYtMi42NywxMC4xNS0yLjM1LDEwLjE1LTIuMzVoMFpNMzcuMjUsNDYuOTFjMTEuOTctNi4yLDYuNDEtMTIuMTgsMi41Ni0xMS40My0uOTYuMjEtMS4zOS40My0xLjM5LjQzLDAsMCwuMzItLjY0LDEuMDctLjg1LDcuNTktMi42NywxMy41Nyw4LjAxLTIuNDYsMTIuMTgsMCwwLC4xMS0uMTEuMjEtLjMyaDBaTTE3LjU5LDYzLjhjMTEuNTQuNzUsMjkuMTctLjQzLDI5LjYtNS44OCwwLDAtLjg1LDIuMTQtOS41MSwzLjc0LTkuODMsMS44Mi0yMi4wMSwxLjYtMjkuMTcuNDMsMCwwLDEuNSwxLjI4LDkuMDgsMS43MWgwWiIvPgogIDxwYXRoIGNsYXNzPSJiIiBkPSJNMzAsMHM2LjYzLDYuNzMtNi4zLDE2Ljg4Yy0xMC4zNyw4LjIzLTIuMzUsMTIuOTMsMCwxOC4yNy02LjA5LTUuNDUtMTAuNDctMTAuMjYtNy40OC0xNC43NSw0LjM4LTYuNjMsMTYuNDYtOS44MSwxMy43OC0yMC40MVpNMjYuNiwzMC42N2MzLjEsMy41My0uODUsNi43My0uODUsNi43MywwLDAsNy45MS00LjA2LDQuMjctOS4wOC0zLjMxLTQuODEtNS44OC03LjE2LDguMDEtMTUuMTcsMCwwLTIxLjkxLDUuNDUtMTEuNDMsMTcuNTNaIi8+Cjwvc3ZnPg==&logoColor=white&logoSize=auto"></a> -->
-    <!-- <a href="https://go.dev/" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoSize=auto"></a> -->
     <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&logoSize=auto"></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="GNU Bash" src="https://img.shields.io/badge/Bash-283037?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto"></a>
     <a href="https://www.lua.org/" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto"></a>
@@ -70,7 +68,6 @@
     <a href="https://sqlite.org/" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=auto"></a>
     <a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto"></a>
     <a href="https://orm.drizzle.team/" target="_blank"><img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black&logoSize=auto"></a>
-    <!-- <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto"></a> -->
     <a href="https://www.langchain.com/" target="_blank"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&logoSize=auto"></a>
   </p>
 </div>
@@ -87,7 +84,6 @@
     <a href="https://gsap.com/" target="_blank"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-07b137?style=for-the-badge&logo=gsap&logoColor=white&logoSize=auto"></a>
     <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-1FB8CD?style=for-the-badge&logo=react&logoColor=white&logoSize=auto"></a>
     <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=auto"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API" target="_blank"><img alt="WebGPU" src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white&logoSize=auto"></a>
   </p>
 </div>
 
@@ -109,9 +105,6 @@
 </div>
 
 
-<!-- <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&logoSize=auto"></a>
-<a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"></a> -->
-
 
 <div>
   <h3 align="left">
@@ -123,43 +116,49 @@
     <a href="https://opencv.org/" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
     <a href="https://docs.pytorch.org/vision/stable/index.html" target="_blank"><img alt="torchvision" src="https://img.shields.io/badge/torchvision-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
     <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
-    <!-- <a href="https://www.anaconda.com/" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a> -->
     <a href="https://onnxruntime.ai/" target="_blank"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&logoSize=auto"></a>
     <a href="https://developer.nvidia.com/tensorrt" target="_blank"><img alt="CUDA" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto"></a>
     <a href="https://www.ultralytics.com/yolo" target="_blank"><img alt="Ultralytics YOLO" src="https://img.shields.io/badge/Yolo-111F68?style=for-the-badge&logo=ultralytics&logoColor=white&logoSize=auto"></a>
     <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-    <!-- <a href="https://www.selenium.dev" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a> -->
     <a href="https://numpy.org/" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
   </p>
 </div>
 
 <div>
   <h3 align="left">
-    Mechatronics // Firmware & Hardware
+    Mechatronics // Embedded & CAD
   </h3>
   <p align="left">
     <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP32" src="https://img.shields.io/badge/ESP_32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&logoSize=auto"></a>
     <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
     <a href="https://www.zephyrproject.org/" target="_blank"><img alt="Zephyr" src="https://img.shields.io/badge/Zephyr-4d46bf?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjguNzUgOC4xMiAyNDkuOTIgMTQ1LjMiPgogIDxkZWZzPgogICAgPHN0eWxlPi5jbHMtMXtmaWxsOiM3OTI5ZDI7fS5jbHMtMntmaWxsOiM5NDU0ZGI7fS5jbHMtM3tmaWxsOiNhZjdmZTQ7fS5jbHMtNHtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50KTt9LmNscy01e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMik7fS5jbHMtNntmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTMpO30uY2xzLTd7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC00KTt9LmNscy04e2ZpbGw6IzJkMzEzNjt9PC9zdHlsZT48c3R5bGUgY2xhc3M9ImRhcmtyZWFkZXIgZGFya3JlYWRlci0tc3luYyIgbWVkaWE9InNjcmVlbiIvPgogIDwvZGVmcz4KICA8cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMTM3LjE1NCAxMjEuNjAxIDEwNS4zMSAxMzUuMDQ2IDEzMi4zODUgMTQ4LjcyIDEzNy4xNTQgMTIxLjYwMSIgc3R5bGU9ImZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KTsgLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiB2YXIoLS1kYXJrcmVhZGVyLXRleHQtZmZmZmZmLCAjZThlNmUzKTsiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIi8+CiAgPHBvbHlnb24gY2xhc3M9ImNscy0yIiBwb2ludHM9IjY4LjQwMSAxMzkuNDE5IDM0LjQzNCAxMjYuNzAzIDQyLjMwOSAxNTMuNDA4IDY4LjQwMSAxMzkuNDE5IiBzdHlsZT0iZmlsbDogcmdiKDI1NSwgMjU1LCAyNTUpOyAtLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IHZhcigtLWRhcmtyZWFkZXItdGV4dC1mZmZmZmYsICNlOGU2ZTMpOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiLz4KICA8cG9seWdvbiBjbGFzcz0iY2xzLTMiIHBvaW50cz0iODQuNTA4IDExNS41MTggMTA1LjMxIDEzNS4wNDYgNjguNDAxIDEzOS40MTkgODQuNTA4IDExNS41MTgiIHN0eWxlPSJmaWxsOiByZ2IoMjU1LCAyNTUsIDI1NSk7IC0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDogdmFyKC0tZGFya3JlYWRlci10ZXh0LWZmZmZmZiwgI2U4ZTZlMyk7IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIvPgogIDxwb2x5Z29uIGNsYXNzPSJjbHMtMyIgcG9pbnRzPSIzOC41MzUgOTcuMTY3IDM0LjQzNCAxMjYuNzAzIDguNzU5IDEwMS4wNzYgMzguNTM1IDk3LjE2NyIgc3R5bGU9ImZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KTsgLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiB2YXIoLS1kYXJrcmVhZGVyLXRleHQtZmZmZmZmLCAjZThlNmUzKTsiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIi8+CiAgPHBvbHlnb24gY2xhc3M9ImNscy00IiBwb2ludHM9IjEzNy4xNTQgMTIxLjYwMSAyMjAuOTgyIDQ0LjQ4MiAyNTguNjY2IDk0LjQxNiAxMzcuMTU0IDEyMS42MDEiIHN0eWxlPSJmaWxsOiByZ2IoMjU1LCAyNTUsIDI1NSk7IC0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDogdmFyKC0tZGFya3JlYWRlci10ZXh0LWZmZmZmZiwgI2U4ZTZlMyk7IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIvPgogIDxwb2x5Z29uIGNsYXNzPSJjbHMtNSIgcG9pbnRzPSIxMzcuMTU0IDEyMS42MDEgMTcyLjk1OSA4LjEzIDIyMC45ODIgNDQuNDgyIDEzNy4xNTQgMTIxLjYwMSIgc3R5bGU9ImZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KTsgLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiB2YXIoLS1kYXJrcmVhZGVyLXRleHQtZmZmZmZmLCAjZThlNmUzKTsiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIi8+CiAgPHBvbHlnb24gY2xhc3M9ImNscy02IiBwb2ludHM9IjE3Mi45NTkgOC4xMyAyNTguNjY2IDguMTMgMjIwLjk4MiA0NC40ODIgMTcyLjk1OSA4LjEzIiBzdHlsZT0iZmlsbDogcmdiKDI1NSwgMjU1LCAyNTUpOyAtLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IHZhcigtLWRhcmtyZWFkZXItdGV4dC1mZmZmZmYsICNlOGU2ZTMpOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiLz4KICA8cG9seWdvbiBjbGFzcz0iY2xzLTciIHBvaW50cz0iMjU4LjY2NiA5NC40MTYgMjU4LjY2NiA4LjEzIDIyMC45ODIgNDQuNDgyIDI1OC42NjYgOTQuNDE2IiBzdHlsZT0iZmlsbDogcmdiKDI1NSwgMjU1LCAyNTUpOyAtLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IHZhcigtLWRhcmtyZWFkZXItdGV4dC1mZmZmZmYsICNlOGU2ZTMpOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiLz4KPC9zdmc+&logoColor=white&logoSize=auto"></a>
+    <a href="https://micropython.org/" target="_blank"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white&logoSize=auto"></a>
     <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/" target="_blank"><img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
     <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
     <a href="https://www.kicad.org/" target="_blank"><img alt="KiCAD" src="https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white&logoSize=auto"></a>
     <a href="https://www.solidworks.com/" target="_blank"><img alt="SolidWorks" src="https://img.shields.io/badge/Solidworks-e13b3b?style=for-the-badge&logo=dassaultsystemes&logoColor=white&logoSize=auto"></a>
     <a href="https://www.autodesk.com/ca-en/products/autocad/overview" target="_blank"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white"></a>
-    <!-- <a href="https://micropython.org/" target="_blank"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white&logoSize=auto"></a> -->
   </p>
 </div>
 
 
 <!-- 
-    <a href="https://github.com/neovim/neovim" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto"></a>
-    <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a> 
-    <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&logoSize=auto"></a>
-    <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto"></a>
-    <a href="https://vite.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto"></a>
-    <a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&logoSize=auto"></a>
-    <a href="https://svelte.dev/docs/kit/introduction" target="_blank"><img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&logoSize=auto"></a>
-    <a href="https://httpd.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&logoSize=auto"></a> 
+  <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+  <a href="https://www.selenium.dev" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>
+  <a href="https://github.com/neovim/neovim" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto"></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a> 
+  <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-d68107?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ny4xOSA2NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5iIHsKICAgICAgICBmaWxsOiAjZmZmOwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iYiIgZD0iTTE1LjI2LDQ5LjQ4cy0yLjQ2LDEuNSwxLjcxLDEuOTJjNS4wMi42NCw3LjY5LjUzLDEzLjI1LS41MywxLjEyLjY4LDIuMywxLjI2LDMuNTMsMS43MS0xMi41LDUuMzQtMjguMzItLjMyLTE4LjQ5LTMuMWgwWk0xMy42Niw0Mi41M3MtMi42NywyLjAzLDEuNSwyLjQ2YzUuNDUuNTMsOS43Mi42NCwxNy4xLS44NS43Mi43MywxLjYsMS4yOCwyLjU2LDEuNi0xNS4wNyw0LjQ5LTMxLjk1LjQzLTIxLjE2LTMuMjFoMFpNNDMuMTUsNTQuNzFzMS44MiwxLjUtMi4wMywyLjY3Yy03LjE2LDIuMTQtMzAuMDMsMi43OC0zNi40NCwwLTIuMjQtLjk2LDIuMDMtMi4zNSwzLjQtMi41NiwxLjM5LS4zMiwyLjE0LS4zMiwyLjE0LS4zMi0yLjQ2LTEuNzEtMTYuMzUsMy41My03LjA1LDUuMDIsMjUuNTQsNC4xNyw0Ni41OS0xLjgyLDM5Ljk3LTQuODFoLjAyWk0xNi40MSwzNS4yNnMtMTEuNjUsMi43OC00LjE3LDMuNzRjMy4yMS40Myw5LjUxLjMyLDE1LjM5LS4xMSw0LjgxLS40Myw5LjYyLTEuMjgsOS42Mi0xLjI4LDAsMC0xLjcxLjc1LTIuODksMS41LTExLjg2LDMuMS0zNC42MiwxLjcxLTI4LjEtMS41LDUuNTYtMi42NywxMC4xNS0yLjM1LDEwLjE1LTIuMzVoMFpNMzcuMjUsNDYuOTFjMTEuOTctNi4yLDYuNDEtMTIuMTgsMi41Ni0xMS40My0uOTYuMjEtMS4zOS40My0xLjM5LjQzLDAsMCwuMzItLjY0LDEuMDctLjg1LDcuNTktMi42NywxMy41Nyw4LjAxLTIuNDYsMTIuMTgsMCwwLC4xMS0uMTEuMjEtLjMyaDBaTTE3LjU5LDYzLjhjMTEuNTQuNzUsMjkuMTctLjQzLDI5LjYtNS44OCwwLDAtLjg1LDIuMTQtOS41MSwzLjc0LTkuODMsMS44Mi0yMi4wMSwxLjYtMjkuMTcuNDMsMCwwLDEuNSwxLjI4LDkuMDgsMS43MWgwWiIvPgogIDxwYXRoIGNsYXNzPSJiIiBkPSJNMzAsMHM2LjYzLDYuNzMtNi4zLDE2Ljg4Yy0xMC4zNyw4LjIzLTIuMzUsMTIuOTMsMCwxOC4yNy02LjA5LTUuNDUtMTAuNDctMTAuMjYtNy40OC0xNC43NSw0LjM4LTYuNjMsMTYuNDYtOS44MSwxMy43OC0yMC40MVpNMjYuNiwzMC42N2MzLjEsMy41My0uODUsNi43My0uODUsNi43MywwLDAsNy45MS00LjA2LDQuMjctOS4wOC0zLjMxLTQuODEtNS44OC03LjE2LDguMDEtMTUuMTcsMCwwLTIxLjkxLDUuNDUtMTEuNDMsMTcuNTNaIi8+Cjwvc3ZnPg==&logoColor=white&logoSize=auto"></a>
+  <a href="https://go.dev/" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoSize=auto"></a>
+  <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&logoSize=auto"></a>
+  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto"></a>
+  <a href="https://vite.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto"></a>
+  <a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&logoSize=auto"></a>
+  <a href="https://svelte.dev/docs/kit/introduction" target="_blank"><img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&logoSize=auto"></a>
+  <a href="https://httpd.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&logoSize=auto"></a> 
+  <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&logoSize=auto"></a>
+  <a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API" target="_blank"><img alt="WebGPU" src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white&logoSize=auto"></a>
 -->
 
 
