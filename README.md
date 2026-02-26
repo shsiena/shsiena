@@ -15,7 +15,7 @@
       <td>
         <div align="center">
           <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6de851&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Mechatronics+Engineering+Student;Backend+Web+Developer;GPU+Programmer" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6de851&center=true&random=true&width=500&lines=Embedded+Systems+Programmer;Computer+Vision+Developer;Mechatronics+Engineering+Student;Fullstack+Web+Developer;JavaScript+on+the+server+was+a+mistake" alt="Typing SVG" />
           </a>
         </div>
         <div align="left">
@@ -63,11 +63,12 @@
   </h3> 
   <p align="left">
     <a href="https://bun.com/" target="_blank"><img alt="Bun" src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&logoSize=auto"></a>
-    <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=auto"></a>
     <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto"></a>
     <a href="https://sqlite.org/" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=auto"></a>
     <a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto"></a>
     <a href="https://orm.drizzle.team/" target="_blank"><img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black&logoSize=auto"></a>
+    <a href="https://svelte.dev/docs/kit/introduction" target="_blank"><img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&logoSize=auto"></a>
+    <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=auto"></a>
     <a href="https://www.langchain.com/" target="_blank"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&logoSize=auto"></a>
   </p>
 </div>
@@ -154,7 +155,6 @@
   <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto"></a>
   <a href="https://vite.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto"></a>
   <a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&logoSize=auto"></a>
-  <a href="https://svelte.dev/docs/kit/introduction" target="_blank"><img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&logoSize=auto"></a>
   <a href="https://httpd.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&logoSize=auto"></a> 
   <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&logoSize=auto"></a>
   <a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"></a>
