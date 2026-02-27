@@ -41,9 +41,9 @@
 
 
 <div>
-  <h3 align="left">
+  <h2 align="left">
        Languages I Enjoy
-  </h3>
+  </h2>
   <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto"></a>
     <a href="https://cplusplus.com/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto"></a>
@@ -57,10 +57,14 @@
   </p>
 </div>
 
+<h2>
+  Tech I Use
+</h2>
+
 <div>
-  <h3 align="left">
+  <h4 align="left">
     Web // Backend
-  </h3> 
+  </h4> 
   <p align="left">
     <a href="https://bun.com/" target="_blank"><img alt="Bun" src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&logoSize=auto"></a>
     <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto"></a>
@@ -74,9 +78,9 @@
 </div>
 
 <div>
-  <h3 align="left">
+  <h4 align="left">
     Web // Graphics & Frontend
-  </h3> 
+  </h4> 
   <p align="left">
     <a href="https://github.com/mrdoob/three.js" target="_blank"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&logoSize=auto"></a>
     <a href="https://github.com/pixijs/pixijs" target="_blank"><img alt="Pixi.js" src="https://img.shields.io/badge/Pixi.js-e72264?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjI4LjQ4IDI3LjUyIDIyLjg4IDI1LjI4IiB3aWR0aD0iMjIuODgiIGhlaWdodD0iMjUuMjgiIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyI+PHN0eWxlPjwhW0NEQVRBWy5Ce2ZpbGwtb3BhY2l0eTouNX1dXT48L3N0eWxlPjxwYXRoIGZpbGw9InRyYW5zcGFyZW50IiBkPSJNMCAwaDIyLjg4djI1LjI4SDB6Ii8+PGcgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTAgMGg4MHY4MEgweiIgdmlzaWJpbGl0eT0iaGlkZGVuIi8+PHBhdGggZD0iTTQwLjQ1IDI5Ljk0N2E3LjUgNy41IDAgMCAwLTcuNTAyIDcuNDk0bC4wMDQuMjQydjcuMjAyLjAwMS43MzJsLjAwMSAxLjgxLS4wMDEuMDQxcy4wMDEuMDI4LjAwMS4wNDJ2LjAzNGguMDAxYy4wNCAxLjM5MSAxLjE4IDIuNTA2IDIuNTgyIDIuNTA2czIuNTU0LTEuMTE1IDIuNTk0LTIuNTA2di0yLjY1OWgyLjE0M2wuMTc1LjAwMmM0LjE0MyAwIDcuNTAyLTMuMzA4IDcuNTAyLTcuNDQ4YTcuNSA3LjUgMCAwIDAtNy41MDEtNy40OTR6bTAgOS43NjdoLTIuMTAzLS4yMTR2LTIuMjcyYzAtMS4yNzMgMS4wNDItMi4zMDYgMi4zMTctMi4zMDZhMi4zMSAyLjMxIDAgMCAxIDIuMzA5IDIuMzA2YzAgMS4yNzMtMS4wMzQgMi4yNzMtMi4zMDkgMi4yNzN6Ii8+PC9nPjxwYXRoIGQ9Ik0zMi41NTEgNDEuNjU5djMuMTk2YzAtMi44MTUgMi4zNjgtNS4xMzMgNS4xNzktNS4xNzF2LTEuMDJjLTIuMDkuMjItMy45NCAxLjM0My01LjE3OSAyLjk5NXoiIG9wYWNpdHk9Ii4wMyIgY2xhc3M9IkIiLz48cGF0aCBkPSJNMzIuNTYyIDQ3LjYxMmEzLjYyIDMuNjIgMCAwIDEgMi4xNS0uNzExaDMuMDI1di0xLjY5NGgtMi41OTJhMi41OSAyLjU5IDAgMCAwLTIuNTg0IDIuNDA1eiIgb3BhY2l0eT0iLjA1IiBjbGFzcz0iQiIvPjxwYXRoIGQ9Ik0zNy43MyAzOS42ODd2LS45MjZjLTIuMTA3LjIwNi0zLjk2NiAxLjM1NS01LjE3OSAzLjA0MXYzLjA1N2MwLTIuODE1IDIuMzY4LTUuMTMzIDUuMTc5LTUuMTcxeiIgb3BhY2l0eT0iLjAzIiBjbGFzcz0iQiIvPjxwYXRoIGQ9Ik0zNS4xNDIgNDUuMjExYTIuNTkgMi41OSAwIDAgMC0yLjU3NCAyLjI5N2MuNjEtLjQ3NiAxLjM2My0uNzU3IDIuMTgtLjc1N2gyLjk4NnYtMS41NGgtMi41OTJ6IiBvcGFjaXR5PSIuMDUiIGNsYXNzPSJCIi8+PHBhdGggZD0iTTQzLjA0IDM3LjgzMXYtLjgzM2MtMi4xMjYuMTkyLTMuOTk3IDEuMzY5LTUuMTc5IDMuMDkydjIuOTExYzAtMi44MTUgMi4zNjgtNS4xMzMgNS4xNzktNS4xNzF6IiBvcGFjaXR5PSIuMDMiIGNsYXNzPSJCIi8+PHBhdGggZD0iTTM1LjE0NSA0NS4yMDZhMi41OSAyLjU5IDAgMCAwLTIuNTYgMi4xODkgMy40NCAzLjQ0IDAgMCAxIDIuMjA1LS44MDNoMi45NDZ2LTEuMzg2aC0yLjU5MnptNC44My02LjI0OGEyLjU5IDIuNTkgMCAwIDAtMi41NDEgMi4wODMgMy4zNSAzLjM1IDAgMCAxIDIuMjI2LS44NTFoMi45MDd2LTEuMjMyeiIgb3BhY2l0eT0iLjA1IiBjbGFzcz0iQiIvPjwvc3ZnPg==&logoColor=white&logoSize=auto"></a>
@@ -89,9 +93,9 @@
 </div>
 
 <div>
-  <h3 align="left">
+  <h4 align="left">
     Web // Infrastructure
-  </h3> 
+  </h4> 
   <p align="left">
     <a href="https://www.linuxfoundation.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-0B0D0E?style=for-the-badge&logo=linux&logoColor=white&logoSize=auto"></a>
     <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto"></a>
@@ -109,9 +113,9 @@
 
 
 <div>
-  <h3 align="left">
+  <h4 align="left">
      Machine Learning // Computer Vision
-  </h3>
+  </h4>
   
   <p align="left">
     <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
@@ -127,9 +131,9 @@
 </div>
 
 <div>
-  <h3 align="left">
+  <h4 align="left">
     Mechatronics // Embedded & CAD
-  </h3>
+  </h4>
   <p align="left">
     <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP32" src="https://img.shields.io/badge/ESP_32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&logoSize=auto"></a>
     <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
