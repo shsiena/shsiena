@@ -67,7 +67,7 @@
   </h4> 
   <p align="left">
     <a href="https://bun.com/" target="_blank"><img alt="Bun" src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&logoSize=auto"></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto"></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto"></a>
     <a href="https://sqlite.org/" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=auto"></a>
     <a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto"></a>
     <a href="https://orm.drizzle.team/" target="_blank"><img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black&logoSize=auto"></a>
