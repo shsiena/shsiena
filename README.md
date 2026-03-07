@@ -27,7 +27,7 @@
               🎓 <code>I'm studying mechatronics engineering at the University of Waterloo</code>
             </li>
             <li> 
-              🌺 <code>I use arch + hyprland + neovim (btw)</code>
+              🌺 <code>I use arch + neovim (btw)</code>
             </li>
             <li> 
               ⚙️ <code>I'm currently working on a temporal sensor fusion algorithm for tracking birds, drones, and stealth planes</code>
