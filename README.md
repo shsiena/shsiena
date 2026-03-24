@@ -92,7 +92,7 @@
 
 <div>
   <h4 align="left">
-    Web // Infrastructure
+    Web // Infra
   </h4> 
   <p align="left">
     <a href="https://www.linuxfoundation.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-0B0D0E?style=for-the-badge&logo=linux&logoColor=white&logoSize=auto"></a>
