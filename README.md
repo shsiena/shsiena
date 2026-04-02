@@ -19,10 +19,10 @@ _\*For legal reasons I am NOT a professional engineer... I can't call myself tha
 - Web Development
   - Server: Backend Development, Architecture, DevOps, and Infra
   - Client: 2D & 3D Graphics _(I really like Pixi.js and Three.js, especially with custom shaders)_
-  - I really like self hosting
+  - I'm a big self-hosting enjoyer
 
 - Embedded
-  - I am in love with the ESP32 platform <3
+  - I am in love with the ESP32 platform. <3
   - I really like IOT and edge devices with GPUs
 
 - Cybersecurity
