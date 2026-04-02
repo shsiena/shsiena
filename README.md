@@ -4,7 +4,7 @@
 
 - Some people have train autism, I have fighter jet and computer autism
 
-### Currently
+## Currently
 
 ---
 
@@ -16,7 +16,7 @@
 
 \*For legal reasons I am NOT a professional engineer... I can't call myself that where I live even though it's my job title 🙃
 
-### I Like
+## I Like
 
 ---
 
@@ -39,11 +39,11 @@
   - I like graphics pipelines and algorithms
   - Like any good game developer, I've never released a full game, but I have a heaping folder of tech demos I've built over the years 🥲
 
-### I use
+## I Use
 
 ---
 
-- vim btw
+vim btw
 
 ---
 
