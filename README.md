@@ -1,44 +1,51 @@
-<!-- README Inspiration: Francis Bui - https://github.com/Francis-Bui -->
-<h1 align="center">
-  Hi, I'm <strong>Simon Siena</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h1>
+## Hi, I'm Simon
 
-<div>
-  <table align="left">
-    <tr>
-      <th>
-        <strong>About Me</strong>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6de851&center=true&random=true&width=500&lines=Microcontroller+Enthusiast;Computer+Vision+Developer;Mechatronics+Engineering+Student;Fullstack+Web+Developer;JavaScript+on+the+server+was+a+mistake" alt="Typing SVG" />
-          </a>
-        </div>
-        <div align="left">
-          <ul>
-            <li>
-              💻 <code>I like shaders, computer vision, embedded systems, reverse engineering, and fullstack web development</code>
-            </li>
-            <li>
-              🎓 <code>I'm studying mechatronics engineering at the University of Waterloo</code>
-            </li>
-            <li> 
-              🌺 <code>I use arch + neovim (btw)</code>
-            </li>
-            <li> 
-              ⚙️ <code>I'm currently working on a temporal sensor fusion algorithm for tracking birds, drones, and stealth planes</code>
-            </li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+- I started with Arduino as a hobbyist back in 2014 and I've been programming and building in my free time ever since.
 
+- Some people have train autism, I have fighter jet and computer autism
+
+### Currently
+
+---
+
+- I'm studying Mechatronics Engineering at the University of Waterloo
+
+- I work as a fullstack software engineer\*
+
+- In my free time, I'm building a cutting-edge air defense system for hunting drones and stealth planes
+
+\*For legal reasons I am NOT a professional engineer... I can't call myself that where I live even though it's my job title 🙃
+
+### I Like
+
+---
+
+- Web Development
+  - Server: Backend Development, Architecture, DevOps, and Infra
+  - Client: 2D & 3D Graphics (I really like Pixi.js and Three.js, especially with custom shaders)
+
+- Embedded
+  - The ESP32 platform is my beloved <3
+  - I really like IOT and edge devices with GPUs
+
+- Cybersecurity
+  - Binary Decompilation & Reverse Engineering (IDA Pro)
+  - Static and Dynamic Malware Analysis
+
+- Radio
+  - I like playing with SDRs and wireless communication protocols
+
+- Game Development
+  - I like graphics pipelines and algorithms
+  - Like any good game developer, I've never released a full game, but I have a heaping folder of tech demos I've built over the years 🥲
+
+### I use
+
+---
+
+- vim btw
+
+---
 
 <div>
   <h2 align="left">
@@ -100,8 +107,6 @@
   </p>
 </div>
 
-
-
 <div>
   <h4 align="left">
      Machine Learning // Computer Vision
@@ -131,8 +136,7 @@
   </p>
 </div>
 
-
-<!-- 
+<!--
     <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     <a href="https://numpy.org/" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="GNU Bash" src="https://img.shields.io/badge/Shell-283037?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto"></a>
@@ -154,18 +158,17 @@
   <a href="https://www.selenium.dev" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>
     <a href="https://svelte.dev/docs/kit/introduction" target="_blank"><img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&logoSize=auto"></a>
   <a href="https://github.com/neovim/neovim" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto"></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a> 
+  <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
   <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-d68107?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ny4xOSA2NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5iIHsKICAgICAgICBmaWxsOiAjZmZmOwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iYiIgZD0iTTE1LjI2LDQ5LjQ4cy0yLjQ2LDEuNSwxLjcxLDEuOTJjNS4wMi42NCw3LjY5LjUzLDEzLjI1LS41MywxLjEyLjY4LDIuMywxLjI2LDMuNTMsMS43MS0xMi41LDUuMzQtMjguMzItLjMyLTE4LjQ5LTMuMWgwWk0xMy42Niw0Mi41M3MtMi42NywyLjAzLDEuNSwyLjQ2YzUuNDUuNTMsOS43Mi42NCwxNy4xLS44NS43Mi43MywxLjYsMS4yOCwyLjU2LDEuNi0xNS4wNyw0LjQ5LTMxLjk1LjQzLTIxLjE2LTMuMjFoMFpNNDMuMTUsNTQuNzFzMS44MiwxLjUtMi4wMywyLjY3Yy03LjE2LDIuMTQtMzAuMDMsMi43OC0zNi40NCwwLTIuMjQtLjk2LDIuMDMtMi4zNSwzLjQtMi41NiwxLjM5LS4zMiwyLjE0LS4zMiwyLjE0LS4zMi0yLjQ2LTEuNzEtMTYuMzUsMy41My03LjA1LDUuMDIsMjUuNTQsNC4xNyw0Ni41OS0xLjgyLDM5Ljk3LTQuODFoLjAyWk0xNi40MSwzNS4yNnMtMTEuNjUsMi43OC00LjE3LDMuNzRjMy4yMS40Myw5LjUxLjMyLDE1LjM5LS4xMSw0LjgxLS40Myw5LjYyLTEuMjgsOS42Mi0xLjI4LDAsMC0xLjcxLjc1LTIuODksMS41LTExLjg2LDMuMS0zNC42MiwxLjcxLTI4LjEtMS41LDUuNTYtMi42NywxMC4xNS0yLjM1LDEwLjE1LTIuMzVoMFpNMzcuMjUsNDYuOTFjMTEuOTctNi4yLDYuNDEtMTIuMTgsMi41Ni0xMS40My0uOTYuMjEtMS4zOS40My0xLjM5LjQzLDAsMCwuMzItLjY0LDEuMDctLjg1LDcuNTktMi42NywxMy41Nyw4LjAxLTIuNDYsMTIuMTgsMCwwLC4xMS0uMTEuMjEtLjMyaDBaTTE3LjU5LDYzLjhjMTEuNTQuNzUsMjkuMTctLjQzLDI5LjYtNS44OCwwLDAtLjg1LDIuMTQtOS41MSwzLjc0LTkuODMsMS44Mi0yMi4wMSwxLjYtMjkuMTcuNDMsMCwwLDEuNSwxLjI4LDkuMDgsMS43MWgwWiIvPgogIDxwYXRoIGNsYXNzPSJiIiBkPSJNMzAsMHM2LjYzLDYuNzMtNi4zLDE2Ljg4Yy0xMC4zNyw4LjIzLTIuMzUsMTIuOTMsMCwxOC4yNy02LjA5LTUuNDUtMTAuNDctMTAuMjYtNy40OC0xNC43NSw0LjM4LTYuNjMsMTYuNDYtOS44MSwxMy43OC0yMC40MVpNMjYuNiwzMC42N2MzLjEsMy41My0uODUsNi43My0uODUsNi43MywwLDAsNy45MS00LjA2LDQuMjctOS4wOC0zLjMxLTQuODEtNS44OC03LjE2LDguMDEtMTUuMTcsMCwwLTIxLjkxLDUuNDUtMTEuNDMsMTcuNTNaIi8+Cjwvc3ZnPg==&logoColor=white&logoSize=auto"></a>
   <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&logoSize=auto"></a>
   <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto"></a>
   <a href="https://vite.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto"></a>
   <a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&logoSize=auto"></a>
-  <a href="https://httpd.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&logoSize=auto"></a> 
+  <a href="https://httpd.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&logoSize=auto"></a>
   <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&logoSize=auto"></a>
   <a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API" target="_blank"><img alt="WebGPU" src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white&logoSize=auto"></a>
 -->
-
 
 ---
 
