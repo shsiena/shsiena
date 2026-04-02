@@ -6,8 +6,6 @@
 
 ## Currently
 
----
-
 - I'm studying Mechatronics Engineering at the University of Waterloo
 
 - I work as a fullstack software engineer\*
@@ -17,8 +15,6 @@
 \*For legal reasons I am NOT a professional engineer... I can't call myself that where I live even though it's my job title 🙃
 
 ## I Like
-
----
 
 - Web Development
   - Server: Backend Development, Architecture, DevOps, and Infra
@@ -40,8 +36,6 @@
   - Like any good game developer, I've never released a full game, but I have a heaping folder of tech demos I've built over the years 🥲
 
 ## I Use
-
----
 
 vim btw
 
