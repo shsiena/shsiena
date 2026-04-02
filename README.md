@@ -18,22 +18,24 @@ _\*For legal reasons I am NOT a professional engineer... I can't call myself tha
 
 - Web Development
   - Server: Backend Development, Architecture, DevOps, and Infra
-  - Client: 2D & 3D Graphics (I really like Pixi.js and Three.js, especially with custom shaders)
+  - Client: 2D & 3D Graphics _(I really like Pixi.js and Three.js, especially with custom shaders)_
+  - I really like self hosting
 
 - Embedded
-  - The ESP32 platform is my beloved <3
+  - I am in love with the ESP32 platform <3
   - I really like IOT and edge devices with GPUs
 
 - Cybersecurity
   - Binary Decompilation & Reverse Engineering (IDA Pro)
   - Static and Dynamic Malware Analysis
+  - Networking
 
 - Radio
   - I like playing with SDRs and wireless communication protocols
 
 - Game Development
   - I like graphics pipelines and algorithms
-  - Like any good game developer, I've never released a full game, but I have a heaping folder of tech demos I've built over the years 🥲
+  - Like any good game developer, I've never released a full game, but I have a heaping folder of tech demos I've built over the years. 🥲
 
 ## I Use
 
@@ -55,7 +57,7 @@ vim btw
 </div>
 
 <h2>
-  Tech I Use
+  My Stack
 </h2>
 
 <div>
