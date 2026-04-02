@@ -2,7 +2,7 @@
 
 - I started with Arduino as a hobbyist back in 2014 and I've been programming and building in my free time ever since.
 
-- Some people have train autism, I have fighter jet, tank and computer autism.
+- Some people have train autism, I have fighter jet and computer autism.
 
 ## Currently
 
