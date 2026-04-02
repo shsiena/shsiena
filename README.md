@@ -2,17 +2,17 @@
 
 - I started with Arduino as a hobbyist back in 2014 and I've been programming and building in my free time ever since.
 
-- Some people have train autism, I have fighter jet and computer autism
+- Some people have train autism, I have fighter jet, tank and computer autism.
 
 ## Currently
 
-- I'm studying Mechatronics Engineering at the University of Waterloo
+- I'm studying mechatronics engineering at the University of Waterloo in Canada.
 
-- I work as a fullstack software engineer\*
+- I work as a fullstack software engineer\*.
 
-- In my free time, I'm building a cutting-edge air defense system for hunting drones and stealth planes
+- In my free time, I'm building a cutting-edge air defense system for hunting drones and stealth planes.
 
-\*For legal reasons I am NOT a professional engineer... I can't call myself that where I live even though it's my job title 🙃
+**\*For legal reasons I am NOT a professional engineer... I can't call myself that where I live even though it's my job title.** 🙃
 
 ## I Like
 
