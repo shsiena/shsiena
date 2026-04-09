@@ -2,7 +2,6 @@
 
 - I started with Arduino as a hobbyist back in 2014 and I've been programming and building in my free time ever since.
 
-- Some people have train autism, I have fighter jet and computer autism.
 
 ## Currently
 
@@ -12,23 +11,23 @@
 
 - In my free time, I'm building a cutting-edge air defense system for hunting drones and stealth planes.
 
-_\*For legal reasons I am NOT a professional engineer... I can't call myself that where I live even though it's my job title._ 🙃
+> _\*For legal reasons I am NOT a professional engineer... I can't call myself that where I live even though it's my job title._ 🙃
 
 ## I Like
 
 - Web Development
-  - Server: Backend Development, Architecture, DevOps, and Infra
-  - Client: 2D & 3D Graphics _(I really like Pixi.js and Three.js, especially with custom shaders)_
-  - I'm a big self-hosting enjoyer
+  - Server: backend, devops, and infra
+  - Client: 2D & 3D graphics _(I really like Pixi.js and Three.js, especially with custom shaders)_
+  - I really like networking and containerization
 
 - Embedded
   - I am in love with the ESP32 platform. <3
   - I really like IOT and edge devices with GPUs
 
 - Cybersecurity
-  - Binary Decompilation & Reverse Engineering (IDA Pro)
-  - Static and Dynamic Malware Analysis
-  - Networking
+  - binary decompilation & reverse engineering (IDA Pro)
+  - static and dynamic malware analysis
+  - I like both making and solving [crackmes](https://en.wikipedia.org/wiki/Crackme)
 
 - Radio
   - I like playing with SDRs and wireless communication protocols
@@ -37,6 +36,9 @@ _\*For legal reasons I am NOT a professional engineer... I can't call myself tha
   - I like graphics pipelines and algorithms
   - Like any good game developer, I've never released a full game, but I have a heaping folder of tech demos I've built over the years. 🥲
 
+- Planes
+  - My mom took too much tylenol before I spawned and now I **really** like fighter jets
+ 
 ## I Use
 
 vim btw
