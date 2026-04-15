@@ -9,7 +9,7 @@
 
 - I work as a fullstack software engineer\*.
 
-- In my free time, I'm building a cutting-edge air defense system for hunting drones and stealth planes.
+- In my free time, I'm building an air defense system for tracking drones and stealth planes.
 
 > _\*For legal reasons I am NOT a professional engineer... I can't call myself that where I live even though it's my job title._ 🙃
 
