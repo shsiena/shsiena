@@ -166,6 +166,7 @@ vim btw
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API" target="_blank"><img alt="WebGPU" src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white&logoSize=auto"></a>
 -->
 
+<!--
 <div>
   <h3 align="left">
     My Leetcode Stats
@@ -177,3 +178,4 @@ vim btw
   </div>
   ^ I kinda fell off ngl
 </div>
+-->
