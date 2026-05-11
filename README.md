@@ -41,7 +41,7 @@
  
 ## I Use
 
-vim btw
+vim & arch btw
 
 <div>
   <h2 align="left">
