@@ -7,7 +7,7 @@
 
 - I'm studying mechatronics engineering at the University of Waterloo in Canada.
 
-- I work as a fullstack software engineer\*.
+- I formerly worked as a fullstack software engineer\*.
 
 - In my free time, I'm working on a passive optical drone detection and tracking system.
 
@@ -21,11 +21,11 @@
   - I really like networking and containerization
 
 - Embedded
-  - I am in love with the ESP32 platform. <3
+  - I am in an open relationship with the ESP32 platform <3
   - I really like IOT and edge devices with GPUs
 
 - Cybersecurity
-  - binary decompilation & reverse engineering (IDA Pro)
+  - binary decompilation & reverse engineering
   - static and dynamic malware analysis
   - I like both making and solving [crackmes](https://en.wikipedia.org/wiki/Crackme)
 
