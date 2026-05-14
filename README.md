@@ -78,7 +78,7 @@ vim & arch btw
 
 <div>
   <h4 align="left">
-    Web // Graphics & Frontend
+    Web // Graphics && Frontend
   </h4> 
   <p align="left">
     <a href="https://github.com/mrdoob/three.js" target="_blank"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&logoSize=auto"></a>
@@ -92,7 +92,7 @@ vim & arch btw
 
 <div>
   <h4 align="left">
-    Web // Containers & Infrastructure
+    Web // Containers && Infrastructure
   </h4> 
   <p align="left">
     <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto"></a>
@@ -105,7 +105,7 @@ vim & arch btw
 
 <div>
   <h4 align="left">
-     Machine Learning // Computer Vision
+     Hardware Acceleration && Computer Vision
   </h4>
   
   <p align="left">
@@ -120,7 +120,7 @@ vim & arch btw
 
 <div>
   <h4 align="left">
-    Mechatronics // Embedded & CAD
+    Mechatronics // Embedded && CAD
   </h4>
   <p align="left">
     <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&logoSize=auto"></a>
