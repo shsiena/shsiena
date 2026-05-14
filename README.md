@@ -11,7 +11,7 @@
 
 - In my free time, I'm working on a passive optical drone detection and tracking system.
 
-> _\*For legal reasons I am NOT a professional engineer... I can't call myself that where I live even though it's my job title._ 🙃
+> _\*For legal reasons I was NOT a professional engineer... I can't call myself that where I live even though it was my job title._ 🙃
 
 ## I Like
 
